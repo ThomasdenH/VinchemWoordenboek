@@ -1,5 +1,6 @@
 {
-  "background_color": "#33691E",
+  "background_color": "#1c3e17",
+  "theme_color": "#33691E",
   "description": "Het enige echte Vinchem woordenboek.",
   "display": "standalone",
   "icons": [
