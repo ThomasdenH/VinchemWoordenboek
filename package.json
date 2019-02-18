@@ -1,5 +1,5 @@
 {
-  "name": "VinchemWoordenboek",
+  "name": "vinchemwoordenboek",
   "version": "1.0.0",
   "description": "Het enige echte Vinchem Woordenboek",
   "main": "index.js",
@@ -25,5 +25,13 @@
     "sass-loader": "^7.1.0",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.11.3"
+  },
+  "dependencies": {
+    "@material/card": "^0.44.0",
+    "@material/elevation": "^0.44.0",
+    "@material/list": "^0.44.0",
+    "@material/ripple": "^0.44.0",
+    "@material/snackbar": "^0.44.0",
+    "@material/typography": "^0.44.0"
   }
 }
