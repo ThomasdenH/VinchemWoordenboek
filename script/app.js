@@ -60,6 +60,10 @@ const currentWord = params.get('woord');
 if (currentWord !== null)
     showWord(content.words.find((word) => word.woord === decodeURIComponent(currentWord)));
 
+window.onpopstate = function() {
+    closeWord();
+};
+
 function showWord(word) {
     if (typeof word === 'undefined') {
         console.log('Het woord is niet gevonden.');
