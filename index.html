@@ -28,10 +28,11 @@
 </head>
 
 <body class="mdc-typography">
-  <header class="mdc-top-app-bar">
+  <header class="mdc-elevation--z4 mdc-top-app-bar">
     <div class="mdc-top-app-bar__row">
       <section
         class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start mdc-theme--primary-bg mdc-theme--on-primary">
+        <a href="#" class="material-icons mdc-top-app-bar__navigation-icon hidden">arrow_back</a>
         <span class="mdc-top-app-bar__title">Vinchem Woordenboek</span>
       </section>
     </div>
@@ -39,8 +40,10 @@
   <ul class="mdc-list words-list">
   </ul>
   <div class="word-detail hidden">
-    <h2 class="mdc-typography--headline1 word-title"></h2>
+    <h3 class="mdc-typography--headline3 word-title"></h2>
     <p class="mdc-typography--caption word-gramm"></p>
+    <p class="mdc-typography--body-1 word-description"></p>
+    <p class="mdc-typography--body-2 word-example"></p>
   </div>
   <script src="bundle.js" async defer></script>
 </body>

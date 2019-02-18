@@ -10,6 +10,13 @@ navigator.serviceWorker.register('sw.js');
 const topAppBarElement = document.querySelector('.mdc-top-app-bar');
 const topAppBar = new MDCTopAppBar(topAppBarElement);
 
+const wordDetailPage = document.querySelector('.word-detail');
+const wordTitle = wordDetailPage.querySelector('.word-title');
+const wordGramm = wordDetailPage.querySelector('.word-gramm');
+const wordDesc = wordDetailPage.querySelector('.word-description');
+const wordExample = wordDetailPage.querySelector('.word-example');
+const backButton = document.querySelector('.mdc-top-app-bar__navigation-icon');
+
 const list = document.querySelector('.mdc-list');
 content.words.sort((a, b) => a.woord.localeCompare(b.woord));
 
@@ -31,7 +38,7 @@ for (const word of content.words) {
 }
 
 const mdcList = new MDCList(list);
-const listItemRipples = mdcList.listElements.map((listItemEl) => new MDCRipple(listItemEl));
+mdcList.listElements.map((listItemEl) => new MDCRipple(listItemEl));
 
 // Show a word if it was specified
 const params = new URLSearchParams(document.location.search.substring(1));
@@ -39,17 +46,30 @@ const currentWord = params.get('woord');
 if (currentWord !== null)
     showWord(content.words.find((word) => word.woord === decodeURIComponent(currentWord)));
 
-const wordDetailPage = document.querySelector('.word-detail');
-const wordTitle = wordDetailPage.querySelector('.word-title');
-const wordGramm = wordDetailPage.querySelector('.word-gramm');
 function showWord(word) {
     if (typeof word === 'undefined') {
         console.log('Het woord is niet gevonden.');
     } else if (typeof word.synonym === 'string'){
         showWord(content.words.find((otherWord) => otherWord.woord === word.synonym));
     } else {
+        document.body.classList.add('covered');
         wordDetailPage.classList.remove('hidden');
         wordTitle.innerHTML = word.woord;
         wordGramm.innerHTML = word.prefix;
+        wordDesc.innerHTML = word.betekenis;
+        wordExample.innerHTML = word.voorbeeldzin;
+        backButton.classList.remove('hidden');
+        topAppBarElement.classList.add('mdc-top-app-bar--fixed');
     }
 }
+
+function closeWord() {
+    document.body.classList.remove('covered');
+    wordDetailPage.classList.add('hidden');
+    topAppBarElement.classList.remove('mdc-top-app-bar--fixed');
+    backButton.classList.add('hidden');
+    const newurl = window.location.origin + window.location.pathname;
+    window.history.pushState({ path: newurl }, '', newurl);
+}
+
+backButton.addEventListener('click', () => closeWord());

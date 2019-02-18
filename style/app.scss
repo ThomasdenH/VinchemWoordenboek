@@ -10,6 +10,10 @@ $mdc-theme-background: #fff;
 
 body {
     margin: 0;
+
+    &.covered {
+        overflow: hidden;
+    }
 }
 
 .words-list {
@@ -23,9 +27,21 @@ body {
     bottom: 0px;
     left: 0px;
     background-color: $mdc-theme-background;
-    padding: 64px;
+    padding: 64px 32px;
 
     &.hidden {
         display: none;
     }
+}
+
+.word-example {
+    color: $mdc-theme-secondary;
+}
+
+.mdc-top-app-bar__navigation-icon.hidden {
+    display: none;
+}
+
+.mdc-top-app-bar--fixed {
+    top: 0 !important;
 }
