@@ -5,6 +5,7 @@
   <title>Vinchem Woordenboek</title>
   <meta name="Description" content="Het enige echte Vinchem Woordenboek!">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#33691e">
   <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
@@ -22,11 +23,20 @@
   <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#33691E">
   <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="bundle.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 
-<body>
-  <img src="icons/favicon-1600x1600(1).png" alt="Vinchem logo" />
-  <script src="index.js" async defer></script>
+<body class="mdc-typography">
+  <header class="mdc-top-app-bar">
+    <div class="mdc-top-app-bar__row">
+      <section
+        class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start mdc-theme--primary-bg mdc-theme--on-primary">
+        <span class="mdc-top-app-bar__title">Vinchem Woordenboek</span>
+      </section>
+    </div>
+  </header>
+  <script src="bundle.js" async defer></script>
 </body>
 
 </html>
