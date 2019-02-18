@@ -96,12 +96,7 @@ const content = {
         },
         {
             "woord": "palenbats",
-            "betekenis": "Henk",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "Henk"
         },
         {
             "woord": "meuk",
@@ -141,30 +136,15 @@ const content = {
         },
         {
             "woord": "explorer",
-            "betekenis": "RSA",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "RSA"
         },
         {
             "woord": "R&S",
-            "betekenis": "RSA",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "RSA",
         },
         {
             "woord": "explorers",
-            "betekenis": "RSA",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "RSA"
         },
         {
             "woord": "welp",
@@ -177,12 +157,7 @@ const content = {
         },
         {
             "woord": "DWEK",
-            "betekenis": "welp",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "welp"
         },
         {
             "woord": "stam",
@@ -204,12 +179,7 @@ const content = {
         },
         {
             "woord": "verkenner",
-            "betekenis": "scout",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "scout"
         },
         {
             "woord": "Vinchem",
@@ -231,66 +201,31 @@ const content = {
         },
         {
             "woord": "das",
-            "betekenis": "uniform",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "uniform"
         },
         {
             "woord": "blouse",
-            "betekenis": "uniform",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "uniform"
         },
         {
             "woord": "\u00e9\u00e9nmeter",
-            "betekenis": "piopaal",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "piopaal"
         },
         {
             "woord": "tweemeter",
-            "betekenis": "piopaal",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "piopaal"
         },
         {
             "woord": "viermeter",
-            "betekenis": "piopaal",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Materiaal"
+            "synonym": "piopaal"
         },
         {
             "woord": "anderhalvemeter",
-            "betekenis": "piopaal",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Materiaal"
+            "synonym": "piopaal"
         },
         {
             "woord": "zesmeter",
-            "betekenis": "piopaal",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Materiaal"
+            "synonym": "piopaal"
         },
         {
             "woord": "uniform",
@@ -447,12 +382,7 @@ const content = {
         },
         {
             "woord": "afhappen",
-            "betekenis": "happen",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Yells en kreten"
+            "synonym": "happen"
         },
         {
             "woord": "zeppelin",
@@ -492,21 +422,11 @@ const content = {
         },
         {
             "woord": "Eppe",
-            "betekenis": "Eppe en Brendel",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Eppe en Brendel"
         },
         {
             "woord": "Brendel",
-            "betekenis": "Eppe en Brendel",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Eppe en Brendel"
         },
         {
             "woord": "vuurtafel",
@@ -519,30 +439,15 @@ const content = {
         },
         {
             "woord": "knopen",
-            "betekenis": "pionieren",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "pionieren"
         },
         {
             "woord": "onkruid",
-            "betekenis": "welp",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "welp"
         },
         {
             "woord": "welpsel",
-            "betekenis": "welp",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "welp"
         },
         {
             "woord": "W.E.L.P.",
@@ -564,21 +469,11 @@ const content = {
         },
         {
             "woord": "Grote Oubidoebi",
-            "betekenis": "Emiel",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Emiel"
         },
         {
             "woord": "Miele",
-            "betekenis": "Emiel",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Emiel"
         },
         {
             "woord": "speltak",
@@ -609,12 +504,7 @@ const content = {
         },
         {
             "woord": "vader-zoon-moeder-dochter-kamp",
-            "betekenis": "VaZoMoDoKa",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "VaZoMoDoKa"
         },
         {
             "woord": "boerenkooltocht",
@@ -627,30 +517,15 @@ const content = {
         },
         {
             "woord": "leidingks",
-            "betekenis": "leiding",
-            "prefix": null,
-            "voorbeeldzin": "",
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "leiding"
         },
         {
             "woord": "leidings",
-            "betekenis": "leiding",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "leiding"
         },
         {
             "woord": "leidingen",
-            "betekenis": "leiding",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "leiding"
         },
         {
             "woord": "leiding",
@@ -780,12 +655,7 @@ const content = {
         },
         {
             "woord": "RISK",
-            "betekenis": "RISK-bord",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "RISK-bord"
         },
         {
             "woord": "Z.L.E.T.",
@@ -834,12 +704,7 @@ const content = {
         },
         {
             "woord": "afval",
-            "betekenis": "prullenbak",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "prullenbak"
         },
         {
             "woord": "afvalverwerking",
@@ -861,21 +726,11 @@ const content = {
         },
         {
             "woord": "Vink",
-            "betekenis": "Jaap Vink",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Jaap Vink"
         },
         {
             "woord": "Jaap",
-            "betekenis": "Jaap Vink",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Personen en dergelijke"
+            "synonym": "Jaap Vink"
         },
         {
             "woord": "knetterbijl",
@@ -933,48 +788,23 @@ const content = {
         },
         {
             "woord": "Fendt",
-            "betekenis": "trekker",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Voertuigen"
+            "synonym": "trekker"
         },
         {
             "woord": "kleine John Deere",
-            "betekenis": "trekker",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Voertuigen"
+            "synonym": "trekker",
         },
         {
             "woord": "grote John Deere",
-            "betekenis": "trekker",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Voertuigen"
+            "synonym": "trekker"
         },
         {
             "woord": "John Deere",
-            "betekenis": "trekker",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Voertuigen"
+            "synonym": "trekker"
         },
         {
             "woord": "tractor",
-            "betekenis": "trekker",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Voertuigen"
+            "synonym": "trekker"
         },
         {
             "woord": "trekker",
@@ -1122,12 +952,7 @@ const content = {
         },
         {
             "woord": "PL",
-            "betekenis": "patrouilleleider",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "patrouilleleider"
         },
         {
             "woord": "assistent-patrouilleleider",
@@ -1140,12 +965,7 @@ const content = {
         },
         {
             "woord": "APL",
-            "betekenis": "assistent-patrouilleleider",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "assistent-patrouilleleider"
         },
         {
             "woord": "Potmaarbos",
@@ -1203,12 +1023,7 @@ const content = {
         },
         {
             "woord": "teabiscuits",
-            "betekenis": "teakoekjes",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "teakoekjes"
         },
         {
             "woord": "uieren",
@@ -1230,12 +1045,7 @@ const content = {
         },
         {
             "woord": "PV",
-            "betekenis": "patrouillevulling",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "patrouillevulling"
         },
         {
             "woord": "wasplaats",
@@ -1266,12 +1076,7 @@ const content = {
         },
         {
             "woord": "sjorren",
-            "betekenis": "sjorring",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "sjorring"
         },
         {
             "woord": "sjorring",
@@ -1410,12 +1215,7 @@ const content = {
         },
         {
             "woord": "barkaartensysteem",
-            "betekenis": "barkaart",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "barkaart"
         },
         {
             "woord": "barkaart",
@@ -1464,12 +1264,7 @@ const content = {
         },
         {
             "woord": "hollandse leeuw",
-            "betekenis": "leeuw van Vlaanderen",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Spellen"
+            "synonym": "leeuw van Vlaanderen"
         },
         {
             "woord": "Schop nooit zomaar tegen een eend",
@@ -1689,12 +1484,7 @@ const content = {
         },
         {
             "woord": "de groep",
-            "betekenis": "Vinchem",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "Vinchem"
         },
         {
             "woord": "Marnewaard",
@@ -1923,12 +1713,7 @@ const content = {
         },
         {
             "woord": "afvoerputplantje",
-            "betekenis": "Leopold",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "Leopold"
         },
         {
             "woord": "matje",
@@ -2085,12 +1870,7 @@ const content = {
         },
         {
             "woord": "DOB",
-            "betekenis": "DJB",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Yells en kreten"
+            "synonym": "DJB"
         },
         {
             "woord": "gevonden voorwerp",
@@ -2175,12 +1955,7 @@ const content = {
         },
         {
             "woord": "Zeeland",
-            "betekenis": "scouting Zeeland",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "scouting Zeeland"
         },
         {
             "woord": "Winsum",
@@ -2238,12 +2013,7 @@ const content = {
         },
         {
             "woord": "ochtendgroep",
-            "betekenis": "ochtendverkenners",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "ochtendverkenners"
         },
         {
             "woord": "hordehol",
@@ -2283,12 +2053,7 @@ const content = {
         },
         {
             "woord": "padvinderij",
-            "betekenis": "padvinder",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "padvinder"
         },
         {
             "woord": "smaak",
@@ -2355,12 +2120,7 @@ const content = {
         },
         {
             "woord": "Noordelijke Hike Wedstrijden",
-            "betekenis": "NHW",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "NHW"
         },
         {
             "woord": "Het is een nacht",
@@ -2607,12 +2367,7 @@ const content = {
         },
         {
             "woord": "Jacala",
-            "betekenis": "Yucatan",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Materiaal"
+            "synonym": "Yucatan"
         },
         {
             "woord": "bolderkar",
@@ -2634,12 +2389,7 @@ const content = {
         },
         {
             "woord": "kookplaat",
-            "betekenis": "vuurplaat",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": "Materiaal"
+            "synonym": "vuurplaat"
         },
         {
             "woord": "das van Mathijs Miedema",
@@ -2688,30 +2438,15 @@ const content = {
         },
         {
             "woord": "fouragetent",
-            "betekenis": "foeragetent",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "foeragetent"
         },
         {
             "woord": "foerage",
-            "betekenis": "foeragetent",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "foeragetent"
         },
         {
             "woord": "fourage",
-            "betekenis": "foeragetent",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "foeragetent"
         },
         {
             "woord": "jerrycanrekje",
@@ -2904,12 +2639,7 @@ const content = {
         },
         {
             "woord": "4 mei",
-            "betekenis": "dodenherdenking",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "dodenherdenking"
         },
         {
             "woord": "kampvoorbereiding",
@@ -2922,21 +2652,11 @@ const content = {
         },
         {
             "woord": "NPK-voorbereiding",
-            "betekenis": "kampvoorbereiding",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "kampvoorbereiding"
         },
         {
             "woord": "zomerkampvoorbereiding",
-            "betekenis": "kampvoorbereiding",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "extra": "",
-            "vanafGroep": "0",
-            "categorie": ""
+            "synonym": "kampvoorbereiding"
         },
         {
             "woord": "jerrycan",
