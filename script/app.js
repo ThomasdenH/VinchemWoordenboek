@@ -17,6 +17,20 @@ const wordDesc = wordDetailPage.querySelector('.word-description');
 const wordExample = wordDetailPage.querySelector('.word-example');
 const backButton = document.querySelector('.mdc-top-app-bar__navigation-icon');
 
+const shareButton = document.querySelector('.action-share');
+if (navigator.share) {
+    shareButton.addEventListener('click', () => {
+        navigator.share({
+            title: 'Vinchem Woordenboek',
+            text: 'Ik wil een woord met je delen!',
+            url: window.location.href,
+        });
+    });
+} else {
+    shareButton.remove();
+}
+
+
 const list = document.querySelector('.mdc-list');
 content.words.sort((a, b) => a.woord.localeCompare(b.woord));
 
