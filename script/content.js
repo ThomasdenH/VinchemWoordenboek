@@ -30,7 +30,7 @@ const content = {
             "woord": "pionieren",
             "betekenis": "Het aan elkaar vast maken van stellages met sjorringen om een constructie te bouwen.",
             "prefix": "(werkwoord; pionierde, heeft gepionierd)",
-            "voorbeeldzin": "\"Laten we een vliegtuig pionieren!\"\r\n\"Volgende week is er een pionieropkomst\"",
+            "voorbeeldzin": "\"Laten we een vliegtuig pionieren!\"<br>\"Volgende week is er een pionieropkomst\"",
             "categorie": ""
         },
         {
@@ -276,7 +276,7 @@ const content = {
         },
         {
             "woord": "scoutingfamilie",
-            "betekenis": "1.) Een familie waarvan tenmiste twee opvolgende generaties op scouting hebben gezeten.\r\n2.) Een meestal ironisch bedoelde term om de vereniging mee aan te duiden.",
+            "betekenis": "1.) Een familie waarvan tenmiste twee opvolgende generaties op scouting hebben gezeten.<br>2.) Een meestal ironisch bedoelde term om de vereniging mee aan te duiden.",
             "prefix": "(de; v; meervoud: scoutingfamilie; verkleinwoord: scoutingfamilietje)",
             "voorbeeldzin": "\"We zijn allemaal \u00e9\u00e9n grote scoutingfamilie.\"",
             "categorie": ""
@@ -297,7 +297,7 @@ const content = {
         },
         {
             "woord": "zomerkamplied",
-            "betekenis": "Een jaarlijks terugkomend lied dat op de bonte avond op zomerkamp wordt gezongen door Rolf en Thomas, in 2013 ook met Anne-Jan. Het is gegroeid uit een lied dat een groot deel van de scouts zongen op de melodie van 'Het is een nacht'.\r\n\r\nDe volgende liedjes zijn gezongen:\r\n\r\n2009: 'Het is een nacht'\r\n2010: 'Op naar MCO'\r\n2011: 'Kamp, kamp, kamp'\r\n2012: 'We hielpen de Maya's'\r\n2013: 'Witte veder'\r\n2014: 'De das van Mathijs Miedema'\r\n2015: 'De pasta van Godert'",
+            "betekenis": "Een jaarlijks terugkomend lied dat op de bonte avond op zomerkamp wordt gezongen door Rolf en Thomas, in 2013 ook met Anne-Jan. Het is gegroeid uit een lied dat een groot deel van de scouts zongen op de melodie van 'Het is een nacht'.<br><br>De volgende liedjes zijn gezongen:<br><br>2009: 'Het is een nacht'<br>2010: 'Op naar MCO'<br>2011: 'Kamp, kamp, kamp'<br>2012: 'We hielpen de Maya's'<br>2013: 'Witte veder'<br>2014: 'De das van Mathijs Miedema'<br>2015: 'De pasta van Godert'",
             "prefix": "(het; m; meervoud: zomerkamplieden; verkleinwoord: zomerkampliedje)",
             "voorbeeldzin": "\"Het koningslied is geen goede melodie voor een zomerkamplied...\"",
             "categorie": "Liedjes"
@@ -1027,14 +1027,14 @@ const content = {
         },
         {
             "woord": "Schop nooit zomaar tegen een eend",
-            "betekenis": "Een lied:\r\n\r\nSchop nooit zomaar tegen een eend\r\nwant een eend is ook iemand zijn moeder\r\ndie zwemt in een sloot of in een plas\r\nof ergens anders waar het nat was\r\nNu denk je misschien \"Dit is het eind\"\r\nDat is het ook",
+            "betekenis": "Een lied:<br><br>Schop nooit zomaar tegen een eend<br>want een eend is ook iemand zijn moeder<br>die zwemt in een sloot of in een plas<br>of ergens anders waar het nat was<br>Nu denk je misschien \"Dit is het eind\"<br>Dat is het ook",
             "prefix": "()",
             "voorbeeldzin": "Gaan we 'Schop nooit zomaar tegen een eend' zingen?",
             "categorie": "Liedjes"
         },
         {
             "woord": "koning van Siam",
-            "betekenis": "Een lied:\r\n\r\nDe koning van Siam die had het zo koud\r\nToen heeft hij zijn kop in de kachel gedouwd (2x)\r\n\r\nHij moest voor zijn vrouw nog wat boodschappen doen\r\nEen pak lucifers en een lapje katoen (2x)\r\n\r\nHij kocht er toen ook nog een flesje azijn\r\nDat smaakt op de pudding verukkelijk fijn (2x)\r\n\r\nHij deed er dit alles al in een vergiet\r\nDat lekte wel wat maar dat hinderde niet (2x)\r\n\r\nEn toen hij weer thuis kwam toen zei er zijn vrouw\r\nBen jij nou een koning, wat heb ik aan jou (2x)\r\n\r\nDe koning van Siam die is nu kaput\r\nDat komt er nu van als je boodschappen doet (2x)",
+            "betekenis": "Een lied:<br><br>De koning van Siam die had het zo koud<br>Toen heeft hij zijn kop in de kachel gedouwd (2x)<br><br>Hij moest voor zijn vrouw nog wat boodschappen doen<br>Een pak lucifers en een lapje katoen (2x)<br><br>Hij kocht er toen ook nog een flesje azijn<br>Dat smaakt op de pudding verukkelijk fijn (2x)<br><br>Hij deed er dit alles al in een vergiet<br>Dat lekte wel wat maar dat hinderde niet (2x)<br><br>En toen hij weer thuis kwam toen zei er zijn vrouw<br>Ben jij nou een koning, wat heb ik aan jou (2x)<br><br>De koning van Siam die is nu kaput<br>Dat komt er nu van als je boodschappen doet (2x)",
             "prefix": "(de; m)",
             "voorbeeldzin": "Niemand kent de tekst van 'De koning van Siam'.",
             "categorie": "Liedjes"
@@ -1055,7 +1055,7 @@ const content = {
         },
         {
             "woord": "spel",
-            "betekenis": "Het doen van een wedstrijdje om zowel recreatieve als competitieve redenen waarbij het in het laatste geval meestal gaat om het verdienen van punten tijdens NPK (voor je subkamp) of zomerkamp (voor groepje).\r\n\r\nNormaliter wint niet degene die het meest zijn best doet, maar degene die het slimst valsspeelt.\r\n\r\nVoorbeelden van spellen zijn:\r\n-Het burchtenspel\r\n-Leeuw van Vlaanderen (Hollandse Leeuw)\r\n-Blokjesspel\r\n-Killerbal\r\n-Levend stratego",
+            "betekenis": "Het doen van een wedstrijdje om zowel recreatieve als competitieve redenen waarbij het in het laatste geval meestal gaat om het verdienen van punten tijdens NPK (voor je subkamp) of zomerkamp (voor groepje).<br><br>Normaliter wint niet degene die het meest zijn best doet, maar degene die het slimst valsspeelt.<br><br>Voorbeelden van spellen zijn:<br>-Het burchtenspel<br>-Leeuw van Vlaanderen (Hollandse Leeuw)<br>-Blokjesspel<br>-Killerbal<br>-Levend stratego",
             "prefix": "(het; o; meervoud: spellen)",
             "voorbeeldzin": "\"Jullie mogen niet valsspelen!\"",
             "categorie": "Spellen"
@@ -1427,14 +1427,14 @@ const content = {
         },
         {
             "woord": "bereidheidsverklaring",
-            "betekenis": "Verklaring die wordt opgezegd door explorers tijdens de opening.\r\n\r\n'Een explorer trekt er samen met anderen op uit om de wereld om zich heen te ontdekken en deze meer leefbaar te maken.\r\nMet de inzet van mijn mogelijkheden en met eerbied voor alles wat leeft probeer ik de kansen die ik krijg te benutten.\r\nIk probeer zo goed mogelijk om te gaan met de middelen die mij ter beschikking staan.\r\nIk respecteer mijzelf en anderen.'\r\n\r\nSlechts een verassend klein aantal explorers kent deze bereidheidsverklaring. Soms wordt er per ongeluk ook 'ik probeer de kansen die ik krijg zo goed mogelijk te benutten' gezegd, maar dit is officieel onjuist. Sommige groepen zeggen in plaats van 'en anderen' 'en een ander'.",
+            "betekenis": "Verklaring die wordt opgezegd door explorers tijdens de opening.<br><br>'Een explorer trekt er samen met anderen op uit om de wereld om zich heen te ontdekken en deze meer leefbaar te maken.<br>Met de inzet van mijn mogelijkheden en met eerbied voor alles wat leeft probeer ik de kansen die ik krijg te benutten.<br>Ik probeer zo goed mogelijk om te gaan met de middelen die mij ter beschikking staan.<br>Ik respecteer mijzelf en anderen.'<br><br>Slechts een verassend klein aantal explorers kent deze bereidheidsverklaring. Soms wordt er per ongeluk ook 'ik probeer de kansen die ik krijg zo goed mogelijk te benutten' gezegd, maar dit is officieel onjuist. Sommige groepen zeggen in plaats van 'en anderen' 'en een ander'.",
             "prefix": "(de; v; meervoud: bereidheidsverklaringen)",
             "voorbeeldzin": "\"Mag ik de bereidheidsverklaring?\"",
             "categorie": ""
         },
         {
             "woord": "welpenwet",
-            "betekenis": "Wet opgezegd door de welpen tijdens de opening.\r\n\r\n'Een welp speelt samen met anderen in de rimboe.\r\nHij is eerlijk, trouw, houdt vol en zorgt goed voor de natuur.'\r\n\r\nIn modernere versies wordt 'rimboe' vervangen door 'jungle' maar hiervan is bij Vinchem geen sprake.",
+            "betekenis": "Wet opgezegd door de welpen tijdens de opening.<br><br>'Een welp speelt samen met anderen in de rimboe.<br>Hij is eerlijk, trouw, houdt vol en zorgt goed voor de natuur.'<br><br>In modernere versies wordt 'rimboe' vervangen door 'jungle' maar hiervan is bij Vinchem geen sprake.",
             "prefix": "(de; v; meervoud: welpenwetten)",
             "voorbeeldzin": "\"Mag ik de welpenwet?\"",
             "categorie": ""
@@ -1490,7 +1490,7 @@ const content = {
         },
         {
             "woord": "DJB",
-            "betekenis": "Onderdeel van de welpenopening. Wordt uitgesproken als ' djip'. Wordt aangevraagd met: 'Mag ik de DJB?'\r\nEen welp antwoord met: 'Wij DJB, DJB, DJB, DJB' en de rest reageert met 'Wij DOB, DOB, DOB, DOB.'\r\nDJB staat voor Doe Je Best en DOB voor Doen ons best.",
+            "betekenis": "Onderdeel van de welpenopening. Wordt uitgesproken als ' djip'. Wordt aangevraagd met: 'Mag ik de DJB?'<br>Een welp antwoord met: 'Wij DJB, DJB, DJB, DJB' en de rest reageert met 'Wij DOB, DOB, DOB, DOB.'<br>DJB staat voor Doe Je Best en DOB voor Doen ons best.",
             "prefix": "(de; m; meervoud: DJB's)",
             "voorbeeldzin": "\"Mag ik de DJB?\"",
             "categorie": ""
@@ -1558,7 +1558,7 @@ const content = {
         },
         {
             "woord": "scouting Zeeland",
-            "betekenis": "Naast de provincie ook een bestaande plaats in Noord-Brabant waar de alter ego van scouting Vinchem vandaan komt. 'Scouting Zeeland' zoals zij zichzelf gekscherend noemen is ook in het bezit van een eigen yell.\r\n\r\nZ - dubbel E - L - A - N - D\r\nZeeland, zeeland, zeeland is ok\u00e9\r\nSay what?\r\nZEELAND!\r\nWat voor een eland?\r\nZEELAND!",
+            "betekenis": "Naast de provincie ook een bestaande plaats in Noord-Brabant waar de alter ego van scouting Vinchem vandaan komt. 'Scouting Zeeland' zoals zij zichzelf gekscherend noemen is ook in het bezit van een eigen yell.<br><br>Z - dubbel E - L - A - N - D<br>Zeeland, zeeland, zeeland is ok\u00e9<br>Say what?<br>ZEELAND!<br>Wat voor een eland?<br>ZEELAND!",
             "prefix": "()",
             "voorbeeldzin": "\"Wat voor een eland?\"",
             "categorie": ""
@@ -1707,28 +1707,28 @@ const content = {
         },
         {
             "woord": "Op naar MCO",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2010 met het thema 'Op naar MCO', op de melodie van 'Stick to the status quo'.\r\n\r\nDe tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.\r\n\r\nREFREIN:\r\n\"No, no, no, no, no, no, no\r\nOp naar MCO\r\nWe hebben veel pijn\r\nen dat is niet fijn\r\nDus op naar MCO\r\nGenezen, dat doen we zo!\r\n\r\nJongens we hebben er \u00e9\u00e9n\r\nen hij is niet fake\r\nJa, we hebben alweer een teek\r\nDe vijfde alweer, \r\nwe stuit'ren op en neer\r\nEn van vreugde omdat het geen vuiltje bleek\r\nWe noemen de naam niet van deze gek (Lennart)\r\nEen inrichting is goed",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2010 met het thema 'Op naar MCO', op de melodie van 'Stick to the status quo'.<br><br>De tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>REFREIN:<br>\"No, no, no, no, no, no, no<br>Op naar MCO<br>We hebben veel pijn<br>en dat is niet fijn<br>Dus op naar MCO<br>Genezen, dat doen we zo!<br><br>Jongens we hebben er \u00e9\u00e9n<br>en hij is niet fake<br>Ja, we hebben alweer een teek<br>De vijfde alweer, <br>we stuit'ren op en neer<br>En van vreugde omdat het geen vuiltje bleek<br>We noemen de naam niet van deze gek (Lennart)<br>Een inrichting is goed",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": ""
         },
         {
             "woord": "Kamp, kamp, kamp",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2011 met het thema 'Een reis door de tijd', op de melodie van 'Cash' (van de gelijknamige musical).\r\n\r\nDe tekst is niet compleet omdat hij gereconstrueerd uit herinneringen.\r\n\r\nREFREIN:\r\nKamp, kamp, kamp\r\nHet is een dolle feestboel\r\nKamp, kamp, kamp\r\nEr gaat van alles mis\r\nKamp, kamp, kamp\r\nDat zorgt voor veel geschater\r\nKamp, kamp, kamp\r\nHet is zoals het is\r\n\r\nEn Roald, ja, dat was me wat\r\nNa het smokkelspel\r\nHij faalde hard als tikkertje\r\nSmokkelspel\r\nHij rende in een bramenstruik\r\nen dat vond hij niet fijn\r\n--------\r\nVaseline voor de pijn",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2011 met het thema 'Een reis door de tijd', op de melodie van 'Cash' (van de gelijknamige musical).<br><br>De tekst is niet compleet omdat hij gereconstrueerd uit herinneringen.<br><br>REFREIN:<br>Kamp, kamp, kamp<br>Het is een dolle feestboel<br>Kamp, kamp, kamp<br>Er gaat van alles mis<br>Kamp, kamp, kamp<br>Dat zorgt voor veel geschater<br>Kamp, kamp, kamp<br>Het is zoals het is<br><br>En Roald, ja, dat was me wat<br>Na het smokkelspel<br>Hij faalde hard als tikkertje<br>Smokkelspel<br>Hij rende in een bramenstruik<br>en dat vond hij niet fijn<br>--------<br>Vaseline voor de pijn",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": ""
         },
         {
             "woord": "We hielpen de Maya's",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2012 met het thema 'Op reis naar de Maya's', op de melodie van 'Summer Paradise'.\r\n\r\nDeze tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.\r\n\r\nWe denken te-rug aan de middag-\r\ntijd met Anton, Roald en Martijn\r\nNPK met Peter, paalzitten werkt beter\r\ndan de straffen die we dit jaar moesten doen\r\nWant dreigen, Gadaffi is er niks bij\r\nmaar met straffen, CU stemt vast voor\r\n\r\nREFEIN:\r\nWe hielpen de Maya's\r\nEen mayatastische tijd\r\nHet was een machtig mooi kamp\r\nApplausje voor de stam\r\nEn we denken straks terug\r\nTerug aan zomerkamp met uhuhu\r\nEn de beste was -Eigen groep invullen-\r\nMaar waar was nu Roald?\r\n\r\nOp een mooie avond kwam de leiding\r\nKomt allemaal maar uit die facking tent\r\nLijntje maken, stil ons volgen\r\nGeen straffen maar iets ergers in het zand\r\nEn Jelmer, klagend over scouting\r\nDus die jongen zien we nooit meer terug!\r\n\r\nDe pet van tante Jet\/rond het kampvuur\r\nMag hij mee, ik heb echt geen idee\r\n-------\r\n--------\r\n--------\r\n--------",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2012 met het thema 'Op reis naar de Maya's', op de melodie van 'Summer Paradise'.<br><br>Deze tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>We denken te-rug aan de middag-<br>tijd met Anton, Roald en Martijn<br>NPK met Peter, paalzitten werkt beter<br>dan de straffen die we dit jaar moesten doen<br>Want dreigen, Gadaffi is er niks bij<br>maar met straffen, CU stemt vast voor<br><br>REFEIN:<br>We hielpen de Maya's<br>Een mayatastische tijd<br>Het was een machtig mooi kamp<br>Applausje voor de stam<br>En we denken straks terug<br>Terug aan zomerkamp met uhuhu<br>En de beste was -Eigen groep invullen-<br>Maar waar was nu Roald?<br><br>Op een mooie avond kwam de leiding<br>Komt allemaal maar uit die facking tent<br>Lijntje maken, stil ons volgen<br>Geen straffen maar iets ergers in het zand<br>En Jelmer, klagend over scouting<br>Dus die jongen zien we nooit meer terug!<br><br>De pet van tante Jet\/rond het kampvuur<br>Mag hij mee, ik heb echt geen idee<br>-------<br>--------<br>--------<br>--------",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": "Liedjes"
         },
         {
             "woord": "Witte veder",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2013 met het thema 'Cowboys en Indianen', op de melodie van het koningslied.\r\n\r\nDaar staan we dan\r\ngestopt op de fiets door een schattige kitten\r\nEn daar is het dan\r\nNog meer uit de bosjes, het is een gigantische groep\r\nMag ik ze houden?\r\nAnnigje, alsjeblieft?\r\n\r\nDaar sta je dan\r\n(Wat zijn scouts toch verschrikkelijke stumpers)\r\nDe vuurtafel dondert alweer naar beneden\r\n(Ochtendscouts kunnen niet knopen)\r\nDaar is het dan\r\nSwaggerpettie is een eenmansbordeel met swag\r\nKan hij normaal doen\r\nZal hij dat ooit echt zijn\r\n\r\nREFREIN:\r\nWitte Veder zei \"Wie wint\r\nkan op mijn plaats komen staan\"\r\nEn de bizons zijn gelukkig ook weer terug\r\nWe eten onze buiken rond\r\nHet irokezenopperhoofd\r\nMaar de besta was -Eigen groep invullen-\r\n\r\nTwee slaapzakken, drie welpen\r\nDomme Kaa die z'aan sisal ging helpen\r\nTwee leidinks, 1 Akela, ze sliepen hen kon het niet schelen\r\nZij aan zij, borst vooruit, trots als een pauw, zonder geluid\r\nEn hoe klein ze ook zijn,\r\nHun daden waren groot, gaan niet onderuit\r\nVoor jou, mijn welp, voor Kaa, voor Oe\r\nKnoop je slaapzak door wind en regen, en zal\r\nJullie nakken zolang jullie bestaan\r\nBouw een bultje met elkaar\r\nEn hou de kou bij jullie vandaan\r\n\r\nAlle spullen uit de tas\r\nPiramide in de tent\r\nPort'monnee en pasjes, we zijn nog steeds op zoek\r\nEen bult van meuk kunnen wij ook\r\nOndervond de witte tent\r\nCamouflage van luifel met paal\r\nMooie glazen, Eiscaf\u00e9\r\nValkins ranja, zo doorheen\r\nChristiaans pizza bevatte een haar\r\n\r\nDe V van Vinchem\r\nTwee vingers in de lucht, kom op, kom op\r\nDe V van Vinchem is de V van Wij\r\nWitte Veder staat aan onze zij\r\nDe V van Valsspelen bij een spel\r\nDe burchtenregels verand'ren snel\r\nDe V van altijd Vrolijk zijn\r\nOok al doet je pees of hoofd soms pijn\r\nDe V van Vinchem, de V van Vinchem\r\nDe V van spijkermeppen doen\r\nDe RSA nog niet ontgroen'\r\nDe V van Vega's accepteren\r\nEn zeggen dat ze vlees eten moeten leren\r\nDe V van huilie huilie doen\r\nWraps met chili en kalkoen\r\nEn dus zingen we vandaag van:\r\n\r\nRefrein\r\n\r\nEnge spooktocht in het bos\r\nGiech'lende bosjes spuiten nat\r\nVeders demoon eruit gerukt\r\nLag te branden op het vuur\r\nJa, benzine brandt echt zeer goed\r\nArie's haar mooi groen geverfd\r\nEen verrader van zijn stam\r\nMaar het gaat uiteraard om de lol\r\nJa, het gaat uiteraard om de lol",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2013 met het thema 'Cowboys en Indianen', op de melodie van het koningslied.<br><br>Daar staan we dan<br>gestopt op de fiets door een schattige kitten<br>En daar is het dan<br>Nog meer uit de bosjes, het is een gigantische groep<br>Mag ik ze houden?<br>Annigje, alsjeblieft?<br><br>Daar sta je dan<br>(Wat zijn scouts toch verschrikkelijke stumpers)<br>De vuurtafel dondert alweer naar beneden<br>(Ochtendscouts kunnen niet knopen)<br>Daar is het dan<br>Swaggerpettie is een eenmansbordeel met swag<br>Kan hij normaal doen<br>Zal hij dat ooit echt zijn<br><br>REFREIN:<br>Witte Veder zei \"Wie wint<br>kan op mijn plaats komen staan\"<br>En de bizons zijn gelukkig ook weer terug<br>We eten onze buiken rond<br>Het irokezenopperhoofd<br>Maar de besta was -Eigen groep invullen-<br><br>Twee slaapzakken, drie welpen<br>Domme Kaa die z'aan sisal ging helpen<br>Twee leidinks, 1 Akela, ze sliepen hen kon het niet schelen<br>Zij aan zij, borst vooruit, trots als een pauw, zonder geluid<br>En hoe klein ze ook zijn,<br>Hun daden waren groot, gaan niet onderuit<br>Voor jou, mijn welp, voor Kaa, voor Oe<br>Knoop je slaapzak door wind en regen, en zal<br>Jullie nakken zolang jullie bestaan<br>Bouw een bultje met elkaar<br>En hou de kou bij jullie vandaan<br><br>Alle spullen uit de tas<br>Piramide in de tent<br>Port'monnee en pasjes, we zijn nog steeds op zoek<br>Een bult van meuk kunnen wij ook<br>Ondervond de witte tent<br>Camouflage van luifel met paal<br>Mooie glazen, Eiscaf\u00e9<br>Valkins ranja, zo doorheen<br>Christiaans pizza bevatte een haar<br><br>De V van Vinchem<br>Twee vingers in de lucht, kom op, kom op<br>De V van Vinchem is de V van Wij<br>Witte Veder staat aan onze zij<br>De V van Valsspelen bij een spel<br>De burchtenregels verand'ren snel<br>De V van altijd Vrolijk zijn<br>Ook al doet je pees of hoofd soms pijn<br>De V van Vinchem, de V van Vinchem<br>De V van spijkermeppen doen<br>De RSA nog niet ontgroen'<br>De V van Vega's accepteren<br>En zeggen dat ze vlees eten moeten leren<br>De V van huilie huilie doen<br>Wraps met chili en kalkoen<br>En dus zingen we vandaag van:<br><br>Refrein<br><br>Enge spooktocht in het bos<br>Giech'lende bosjes spuiten nat<br>Veders demoon eruit gerukt<br>Lag te branden op het vuur<br>Ja, benzine brandt echt zeer goed<br>Arie's haar mooi groen geverfd<br>Een verrader van zijn stam<br>Maar het gaat uiteraard om de lol<br>Ja, het gaat uiteraard om de lol",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": "Liedjes"
@@ -1756,7 +1756,7 @@ const content = {
         },
         {
             "woord": "Hummeltje",
-            "betekenis": "Benaming voor een zeer kleine trekker met een dikke uitlaat die nu niet meer bij scouting Vinchem aanwezig is.\r\n",
+            "betekenis": "Benaming voor een zeer kleine trekker met een dikke uitlaat die nu niet meer bij scouting Vinchem aanwezig is.<br>",
             "prefix": "()",
             "voorbeeldzin": "\"Even met het hummeltje over het grasveld scheuren.\"",
             "categorie": "Materiaal"
@@ -1847,7 +1847,7 @@ const content = {
         },
         {
             "woord": "kruiwagen",
-            "betekenis": "De kruiwagen kan worden gebruikt voor het vervoeren van zand of het halen van water met de jerrycans. Ook een prima stoel.\r\n",
+            "betekenis": "De kruiwagen kan worden gebruikt voor het vervoeren van zand of het halen van water met de jerrycans. Ook een prima stoel.<br>",
             "prefix": "(de; m; meervoud: kruiwagens)",
             "voorbeeldzin": "\"De kruiwagen is zo lek als een mandje.\"",
             "categorie": "Materiaal"
@@ -1911,7 +1911,7 @@ const content = {
         },
         {
             "woord": "das van Mathijs Miedema",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2014 met het thema 'Maffia', op de melodie van 'Het gras van het Noorderplantsoen'. Gezongen door Rolf, Anne-Jan en Thomas onder begeleiding van een valse ukelele-gitaar. 'Mathijs Miedema' blijkt het enige rijmwoord te zijn op Fraelema, vandaar deze keuze.\r\n\r\n\r\nDe wasplaats is af\r\nWordt helaas nooit gebruikt\r\nMathijs ligt alleen op het dak\r\nAnnigje staat beneden\r\nZe zegt 'Schiet toch op!\r\nStraks is het eten verbrand'\r\n\r\nDe RSA natgeregend\r\nHun hike gaat niet door\r\nDe scouts staan al klaar om te gaan\r\nVuurwerk in 't dorp\r\nDe aanstekervlam\r\nEn Rolf hinkt er net achteraan\r\n(achteraan)\r\n\r\nREFREIN:\r\nWant als ik weg ben dan mis ik de palen\r\nSpelletjes spelen en zand op gaan halen\r\nIk mis de stam en de welpen\r\nRSA, scouts behelpen\r\nHet was een supermooi kamp\r\nGeen Jutters, laat staan Fraelema\r\nDoe mij maar de das, de das van Mathijs Miedema.\r\n\r\nIn Hasel\u00fcne, ja, daar ligt een Nasch\r\nDie altijd de geur van de stam heeft gehad\r\n\r\nRefrein\r\n\r\nEten in de Nasch\r\nDe toetjes zijn op\r\nEr is dus niet meer cr\u00e8me br\u00fbl\u00e9e\r\nEn bij de Hoppe\r\nLego-catalogus\r\nKastelen enzo in 3D\r\n(in 3D)\r\n\r\nRefrein",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2014 met het thema 'Maffia', op de melodie van 'Het gras van het Noorderplantsoen'. Gezongen door Rolf, Anne-Jan en Thomas onder begeleiding van een valse ukelele-gitaar. 'Mathijs Miedema' blijkt het enige rijmwoord te zijn op Fraelema, vandaar deze keuze.<br><br><br>De wasplaats is af<br>Wordt helaas nooit gebruikt<br>Mathijs ligt alleen op het dak<br>Annigje staat beneden<br>Ze zegt 'Schiet toch op!<br>Straks is het eten verbrand'<br><br>De RSA natgeregend<br>Hun hike gaat niet door<br>De scouts staan al klaar om te gaan<br>Vuurwerk in 't dorp<br>De aanstekervlam<br>En Rolf hinkt er net achteraan<br>(achteraan)<br><br>REFREIN:<br>Want als ik weg ben dan mis ik de palen<br>Spelletjes spelen en zand op gaan halen<br>Ik mis de stam en de welpen<br>RSA, scouts behelpen<br>Het was een supermooi kamp<br>Geen Jutters, laat staan Fraelema<br>Doe mij maar de das, de das van Mathijs Miedema.<br><br>In Hasel\u00fcne, ja, daar ligt een Nasch<br>Die altijd de geur van de stam heeft gehad<br><br>Refrein<br><br>Eten in de Nasch<br>De toetjes zijn op<br>Er is dus niet meer cr\u00e8me br\u00fbl\u00e9e<br>En bij de Hoppe<br>Lego-catalogus<br>Kastelen enzo in 3D<br>(in 3D)<br><br>Refrein",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"'Camera', 'achterna' en 'bijna' rijmen toch ook gewoon op Fraelema?\"",
             "categorie": "Liedjes"
@@ -2014,7 +2014,7 @@ const content = {
         },
         {
             "woord": "uit de kring",
-            "betekenis": "Liedje wat wordt gezongen als iemand om wat voor reden dan ook de kring moet verlaten. De tekst bestaat alleen uit de drie woorden \u2018Uit de kring\u2019 wat men herhaaldelijk zingt op de melodie van \u2018Schop nooit zomaar tegen eend\u2019.\r\n\r\n\r\nUit de kring, uit de kring, uit de kring\r\nUit de kring, uit de kring, uit de kring\r\nUit de kring, uit de kring, uit de kring\r\nUit de kring, uit de kring\r\nUit de kring, uit de kring, uit de kring\r\nUit de kring\r\n",
+            "betekenis": "Liedje wat wordt gezongen als iemand om wat voor reden dan ook de kring moet verlaten. De tekst bestaat alleen uit de drie woorden \u2018Uit de kring\u2019 wat men herhaaldelijk zingt op de melodie van \u2018Schop nooit zomaar tegen eend\u2019.<br><br><br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring<br>",
             "prefix": "()",
             "voorbeeldzin": "\"Uit de kring\"",
             "categorie": "Liedjes"
@@ -2131,7 +2131,7 @@ const content = {
         },
         {
             "woord": "schep",
-            "betekenis": "Attribuut dat voornamelijk wordt gebruikt om zand mee te scheppen voor de vuurtafel.\r\n",
+            "betekenis": "Attribuut dat voornamelijk wordt gebruikt om zand mee te scheppen voor de vuurtafel.<br>",
             "prefix": "(de; m; meervoud: scheppen)",
             "voorbeeldzin": "\"De schep ligt op het terrein. Ergens.\"",
             "categorie": "Materiaal"
@@ -2159,7 +2159,7 @@ const content = {
         },
         {
             "woord": "pasta van Godert",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2015 met het thema 'Kolonisten van Catan'. Het lied werd gezongen op het nummer 'Broodje van Kootje'.\r\n\r\nREFREIN:\r\nIk wil de pasta van Godert\r\ndat maakt mij blij.\r\nHet was gezellig zonder\r\nd' Explorers erbij.\r\nJa, ja de welpen die zwemmen\r\nelke dag weer.\r\nEn maar \u00e9\u00e9n stamlid slaapt lang;\r\nBram, Bram, Bram.\r\n\r\nDe RSA ging dit jaar richting Rheine.\r\nMaartens band begon snel weg te kwijnen.\r\nHij had steeds weer kast van een klapband.\r\nPadampadamklabam.\r\nMaar daarom konden we lekker zwemmen.\r\nPadampadampaplons.\r\nBig Mac in \u00e9\u00e9n keer eten,\r\ngefilmd zodat we niet vergeten.\r\nIk riep op straat, na veel gepraat:\r\n\"W\u00f6lst du tansen mit mir?\"\r\n\r\nRefrein\r\n\r\nZat in de Schwalbe en hoorde iemand braken.\r\nScouts zaten rare geluiden te maken.\r\nHun troep was echt niet te eten.\r\nPadampadampablech.\r\nDe pizza van Hassan smaakte veel beter.\r\nPadampadampadam.\r\nAls je bij de lunch niet komen kan,\r\nja, ja de straf daar schrik je van.\r\n\"AAH, MIJN SLAAPZAK ZIT VL BLOEM!\"\r\nWant dat is wat ze doen.\r\n\r\nRefrein",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2015 met het thema 'Kolonisten van Catan'. Het lied werd gezongen op het nummer 'Broodje van Kootje'.<br><br>REFREIN:<br>Ik wil de pasta van Godert<br>dat maakt mij blij.<br>Het was gezellig zonder<br>d' Explorers erbij.<br>Ja, ja de welpen die zwemmen<br>elke dag weer.<br>En maar \u00e9\u00e9n stamlid slaapt lang;<br>Bram, Bram, Bram.<br><br>De RSA ging dit jaar richting Rheine.<br>Maartens band begon snel weg te kwijnen.<br>Hij had steeds weer kast van een klapband.<br>Padampadamklabam.<br>Maar daarom konden we lekker zwemmen.<br>Padampadampaplons.<br>Big Mac in \u00e9\u00e9n keer eten,<br>gefilmd zodat we niet vergeten.<br>Ik riep op straat, na veel gepraat:<br>\"W\u00f6lst du tansen mit mir?\"<br><br>Refrein<br><br>Zat in de Schwalbe en hoorde iemand braken.<br>Scouts zaten rare geluiden te maken.<br>Hun troep was echt niet te eten.<br>Padampadampablech.<br>De pizza van Hassan smaakte veel beter.<br>Padampadampadam.<br>Als je bij de lunch niet komen kan,<br>ja, ja de straf daar schrik je van.<br>\"AAH, MIJN SLAAPZAK ZIT VL BLOEM!\"<br>Want dat is wat ze doen.<br><br>Refrein",
             "prefix": "(de; m)",
             "voorbeeldzin": "",
             "categorie": "Liedjes"
