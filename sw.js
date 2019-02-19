@@ -44,10 +44,9 @@ self.addEventListener('fetch', (evt) => {
   evt.respondWith((async () => {
     const cache = await caches.open(CACHE);
     {
-      const fetchResponse = await fetch(request);
+      const fetchResponse = await fetch(request).catch(() => undefined);
       if (fetchResponse && fetchResponse.status === 200) {
         await addToCache(cache, request, fetchResponse);
-        console.log(`Fetched and updated asset: ${request.url}`);
         return fetchResponse;
       }
     }
