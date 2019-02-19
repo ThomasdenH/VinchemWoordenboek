@@ -15,7 +15,7 @@ const wordTitle = wordDetailPage.querySelector('.word-title');
 const wordGramm = wordDetailPage.querySelector('.word-gramm');
 const wordDesc = wordDetailPage.querySelector('.word-description');
 const wordExample = wordDetailPage.querySelector('.word-example');
-const backButton = document.querySelector('.mdc-top-app-bar__navigation-icon');
+const backButton = document.querySelector('.action-back');
 
 const list = document.querySelector('.mdc-list');
 content.words.sort((a, b) => a.woord.localeCompare(b.woord));
@@ -53,12 +53,18 @@ function showWord(word) {
     } else {
         list.classList.add('hidden');
         wordDetailPage.classList.remove('hidden');
-
         wordTitle.innerHTML = word.woord;
         wordGramm.innerHTML = word.prefix;
         wordDesc.innerHTML = word.betekenis;
         wordExample.innerHTML = word.voorbeeldzin;
         backButton.classList.remove('hidden');
+        backButton.addEventListener('click', (event) => {
+            // If we have a history, go up. Otherwise the default is following the href to the root.
+            if (window.history.length > 1) {
+                window.history.back();
+                event.preventDefault();
+            }
+        });
     }
 }
 
@@ -79,7 +85,6 @@ window.addEventListener('beforeinstallprompt', (e) => {
         });
     });
 });
-
 
 const shareButton = document.querySelector('.action-share');
 if (navigator.share) {
