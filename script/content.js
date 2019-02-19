@@ -9,7 +9,7 @@ const content = {
         },
         {
             "woord": "scouting Nederland",
-            "betekenis": "De overkoepelende organisatie van scoutinggroepen in Nederland. Hoewel het een verkeerd beeld heeft van scouting, is het wel handig vanwege zijn regelende karakter.",
+            "betekenis": "De overkoepelende organisatie van scoutinggroepen in Nederland. Scouting Nederland informeert en regelt allerlei zaken.",
             "prefix": "(o)",
             "voorbeeldzin": "\"Hello world!\"",
             "extra": "url:http:\/\/www.youtube.com\/watch?v=Nk1M7wgGB4k",
@@ -21,7 +21,7 @@ const content = {
         },
         {
             "woord": "kledder",
-            "betekenis": "Mayonaise \/ Fritessaus voor bijvoorbeeld een snack of patat.",
+            "betekenis": "Mayonaise/Fritessaus voor bijvoorbeeld een snack of patat.",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Kun je de kledder aangegeven?\"",
             "categorie": "Voedsel"
@@ -35,7 +35,7 @@ const content = {
         },
         {
             "woord": "piopaal",
-            "betekenis": "Langwerpige stukken hout om mee te pionieren of in de grond te slaan. Piopalen worden genoemd naar hun lengte in vijf formaten; \u00e9\u00e9nmeters, anderhalfmeters, tweemeters, viermeters en zesmeters.",
+            "betekenis": "Langwerpige stukken hout om mee te pionieren of in de grond te slaan. Piopalen worden genoemd naar hun lengte in vijf formaten; éénmeters, anderhalfmeters, tweemeters, viermeters en zesmeters.",
             "prefix": "(de; m; meervoud: piopalen; verkleinwoord: piopaaltjes)",
             "voorbeeldzin": "\"We hebben acht tweemeters nodig.\"",
             "categorie": ""
@@ -63,7 +63,7 @@ const content = {
         },
         {
             "woord": "trekkerhok",
-            "betekenis": "Ruimte naast het gebouw waar een heleboel meuk wordt opgeslagen. De trekkers stonden en werden hier eerst onderhouden.\nDe David Brown is hier bijvoorbeeld gebouwd.",
+            "betekenis": "Voromalige ruimte naast het gebouw waar een heleboel meuk wordt opgeslagen. De trekkers stonden en werden hier eerst onderhouden. De David Brown is hier bijvoorbeeld gebouwd. Tegenwoordig wordt de loods gebruikt voor opslag.",
             "prefix": "(het; o; meervoud: trekkerhokken; verkleinwoord: trekkerhokje)",
             "voorbeeldzin": "\"Pak jij de Porta Porties uit het trekkerhok?\"",
             "categorie": ""
@@ -83,7 +83,7 @@ const content = {
             "woord": "meuk",
             "betekenis": "Spullen, troep, rotzooi.",
             "prefix": "(de; m)",
-            "voorbeeldzin": "\"Wat heb jij veel meuk meegebracht!\"\n\"We gaan met de hele meuk op kamp.\"",
+            "voorbeeldzin": "\"Wat heb jij veel meuk meegebracht!\"<br>\"We gaan met de hele meuk op kamp.\"",
             "categorie": ""
         },
         {
@@ -121,7 +121,7 @@ const content = {
         },
         {
             "woord": "welp",
-            "betekenis": "Lid van scouting van 7 tot en met 11 jaar. De speltak wordt aangeduid met het meervoud: welpen. Dit is nu de offici\u00eble naam voor deze speltak, al gebruiken andere groepen soms nog de oude namen: Dolfijnen (waterscouts), Welpen(jongens, soms gemengd), Esta's (gemengd) en Kabouters (meisjes), of kortweg DWEK.",
+            "betekenis": "Lid van scouting van 7 tot en met 11 jaar. De speltak wordt aangeduid met het meervoud: welpen. Dit is nu de officiële naam voor deze speltak, al gebruiken andere groepen soms nog de oude namen: Dolfijnen (waterscouts), Welpen(jongens, soms gemengd), Esta's (gemengd) en Kabouters (meisjes), of kortweg DWEK.",
             "prefix": "(de; m\/v; meervoud: welpen; verkleinwoord: welpje)",
             "voorbeeldzin": "\"Ik zit nu bij de welpen.\"",
             "categorie": ""
@@ -152,12 +152,12 @@ const content = {
             "woord": "Vinchem",
             "betekenis": "Onze scoutingvereniging, opgericht op 1 maart 1986. Door leden wordt Vinchem vaak simpelweg aangeduid met 'de groep'. Winsum heette vroeger Vinchem, vandaar de naam.",
             "prefix": "()",
-            "voorbeeldzin": "\"V-I-N-C-H-E-M\nVinchem, vinchem, vinchem is the best\nEn geen geouwehoer, want wij zijn stoer\nLekker puh, uh\"",
+            "voorbeeldzin": "\"V-I-N-C-H-E-M<br>Vinchem, vinchem, vinchem is the best<br>En geen geouwehoer, want wij zijn stoer<br>Lekker puh, uh\"",
             "categorie": ""
         },
         {
             "woord": "fouragemeestertent",
-            "betekenis": "Kampvuurlied:\n\nREFREIN:\nDat wist ik niet en bovendien\nDat kan ik zonder bril niet zien\nDat kan ik zonder bril niet zien\n\nEr is nog brood, brood\nHet smaakt gek en idioot\nAl in de tent, al in de tent\nAl in de tent, al in de tent\nEr is nog brood, brood\nHet smaakt gek en idioot\nIn de fouragemeestertent\n\nEr is nog soep, soep\nVoor de hongerige troep\nAl in de tent, al in de tent\nAl in de tent, al in de tent\nEr is nog soep, soep\nVoor de hongerige troep\nIn de fouragemeestertent\n\nEr is nog vlees, vlees\nDaarvan raak je aan de race\nAl in de tent, al in de tent\nAl in de tent, al in de tent\nEr is nog vlees, vlees\nDaarvan raak je aan de race\nIn de fouragemeestertent\n\nEr is nog kaas, kaas\nAl zo oud als Sinterklaas\nAl in de tent, al in de tent\nAl in de tent, al in de tent\nEr is nog kaas, kaas\nAl zo oud als Sinterklaas\nIn de fouragemeestertent",
+            "betekenis": "Kampvuurlied:<br><br>REFREIN:<br>Dat wist ik niet en bovendien<br>Dat kan ik zonder bril niet zien<br>Dat kan ik zonder bril niet zien<br><br>Er is nog brood, brood<br>Het smaakt gek en idioot<br>Al in de tent, al in de tent<br>Al in de tent, al in de tent<br>Er is nog brood, brood<br>Het smaakt gek en idioot<br>In de fouragemeestertent<br><br>Er is nog soep, soep<br>Voor de hongerige troep<br>Al in de tent, al in de tent<br>Al in de tent, al in de tent<br>Er is nog soep, soep<br>Voor de hongerige troep<br>In de fouragemeestertent<br><br>Er is nog vlees, vlees<br>Daarvan raak je aan de race<br>Al in de tent, al in de tent<br>Al in de tent, al in de tent<br>Er is nog vlees, vlees<br>Daarvan raak je aan de race<br>In de fouragemeestertent<br><br>Er is nog kaas, kaas<br>Al zo oud als Sinterklaas<br>Al in de tent, al in de tent<br>Al in de tent, al in de tent<br>Er is nog kaas, kaas<br>Al zo oud als Sinterklaas<br>In de fouragemeestertent",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Zullen we de fouragemeestertent zingen?\"",
             "categorie": "Liedjes"
@@ -192,9 +192,9 @@ const content = {
         },
         {
             "woord": "uniform",
-            "betekenis": "De blouse en das die alle leden van scouting dragen.\n\nDe kleur van de blouse verschilt per speltak:\n\t\t\t\t\t Welpen: Groen\nScouts: Beige\nRSA en stam: Rood\n\nDe das is heilig en verschilt per groep.",
+            "betekenis": "De blouse en das die alle leden van scouting dragen.<br><br>De kleur van de blouse verschilt per speltak:<br>Welpen: Groen<br>Scouts: Beige<br>RSA en stam: Rood<br><br>De das is heilig en verschilt per groep.",
             "prefix": "(het; v; meervoud: uniformen; verkleinwoord: uniformpje)",
-            "voorbeeldzin": "\"Zonder correct uniform moet je een stap achteruit doen bij de opening!\"\n\"Het is een DAS, geen sjaaltje!\"",
+            "voorbeeldzin": "\"Zonder correct uniform moet je een stap achteruit doen bij de opening!\"<br>\"Het is een DAS, geen sjaaltje!\"",
             "categorie": "Materiaal"
         },
         {
@@ -219,13 +219,6 @@ const content = {
             "categorie": "Voedsel"
         },
         {
-            "woord": "kinderlijk",
-            "betekenis": "De dode lichamen van kleine kinderen (welpen). Te vinden in het bos, verstopt door Anton.",
-            "prefix": "(het, o, meervoud: kinderlijken; verkleinwoord: kinderlijkje)",
-            "voorbeeldzin": "\"De trekker van Diederik loopt op de kinderlijkjes van Anton.\"",
-            "categorie": ""
-        },
-        {
             "woord": "hike",
             "betekenis": "Een meestal gelopen tocht. Fietsend kan ook, dit wordt soms een fietshike genoemd.",
             "prefix": "(de, m, meervoud: hikes)",
@@ -241,7 +234,7 @@ const content = {
         },
         {
             "woord": "vlag",
-            "betekenis": "Een lap stof die door zijn ceremoni\u00eble aard officieel verbrand moet worden na aanraking met de grond.",
+            "betekenis": "Een lap stof die door zijn ceremoniële aard officieel verbrand moet worden na aanraking met de grond.",
             "prefix": "(de; m; meervoud: vlaggen; verkleinwoord: vlaggetje)",
             "voorbeeldzin": "\"Mag ik de vlag?\"",
             "categorie": ""
@@ -268,25 +261,11 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "heteropropraganda",
-            "betekenis": "Beeldmateriaal dat heteroseksualiteit stimuleert, bijvoorbeeld Disney-films.",
-            "prefix": "(de; m; meervoud: heteropropraganda)",
-            "voorbeeldzin": "\"Stomme heteropropraganda!\" -Anton",
-            "categorie": ""
-        },
-        {
             "woord": "scoutingfamilie",
-            "betekenis": "1.) Een familie waarvan tenmiste twee opvolgende generaties op scouting hebben gezeten.<br>2.) Een meestal ironisch bedoelde term om de vereniging mee aan te duiden.",
+            "betekenis": "1.) Een familie waarvan tenmiste twee opvolgende generaties op scouting hebben gezeten.<br>2.) Een vaak ironisch bedoelde term om de vereniging mee aan te duiden.",
             "prefix": "(de; v; meervoud: scoutingfamilie; verkleinwoord: scoutingfamilietje)",
-            "voorbeeldzin": "\"We zijn allemaal \u00e9\u00e9n grote scoutingfamilie.\"",
+            "voorbeeldzin": "\"We zijn allemaal één grote scoutingfamilie.\"",
             "categorie": ""
-        },
-        {
-            "woord": "Annigje",
-            "betekenis": "Een blonde vrouw zonder hart voor jonge dieren.",
-            "prefix": "(v)",
-            "voorbeeldzin": "\"Annigjeeee, mogen we ze houdeeeen?\"",
-            "categorie": "Personen en dergelijke"
         },
         {
             "woord": "wachtlijst",
@@ -297,16 +276,16 @@ const content = {
         },
         {
             "woord": "zomerkamplied",
-            "betekenis": "Een jaarlijks terugkomend lied dat op de bonte avond op zomerkamp wordt gezongen door Rolf en Thomas, in 2013 ook met Anne-Jan. Het is gegroeid uit een lied dat een groot deel van de scouts zongen op de melodie van 'Het is een nacht'.<br><br>De volgende liedjes zijn gezongen:<br><br>2009: 'Het is een nacht'<br>2010: 'Op naar MCO'<br>2011: 'Kamp, kamp, kamp'<br>2012: 'We hielpen de Maya's'<br>2013: 'Witte veder'<br>2014: 'De das van Mathijs Miedema'<br>2015: 'De pasta van Godert'",
+            "betekenis": "Een jaarlijks terugkomend lied dat op de bonte avond op zomerkamp werd gezongen door Rolf en Thomas, later ook met Anne-Jan. Het is gegroeid uit een lied dat een groot deel van de scouts zongen op de melodie van 'Het is een nacht'.<br><br>De volgende liedjes zijn gezongen:<br><br>2009: 'Het is een nacht'<br>2010: 'Op naar MCO'<br>2011: 'Kamp, kamp, kamp'<br>2012: 'We hielpen de Maya's'<br>2013: 'Witte veder'<br>2014: 'De das van Mathijs Miedema'<br>2015: 'De pasta van Godert'",
             "prefix": "(het; m; meervoud: zomerkamplieden; verkleinwoord: zomerkampliedje)",
             "voorbeeldzin": "\"Het koningslied is geen goede melodie voor een zomerkamplied...\"",
             "categorie": "Liedjes"
         },
         {
             "woord": "happen",
-            "betekenis": "Happen is het schreeuwen van het volgende voor het eten:\n\nHap hap happperdehap\t\t\t\t\t\t\tBik bik bikkerdebik\t\t\t\t\t\t\tSmakelijk eten\n\nAfhappen is het schreeuwen van het volgende na het eten:\n\nHap hap happperdehap\nBik bik bikkerdebik\n(Sm)Alles is opgegeten",
+            "betekenis": "Happen is het schreeuwen van het volgende voor het eten:<br><br>Hap hap happperdehap<br>Bik bik bikkerdebik<br>Smakelijk eten<br><br>Afhappen is het schreeuwen van het volgende na het eten:<br><br>Hap hap happperdehap<br>Bik bik bikkerdebik<br>(Sm)Alles is opgegeten",
             "prefix": "(werkwoord; hapte, heeft gehapt)",
-            "voorbeeldzin": "\"Even happen... E\u00e9n, twee, drie...!\"",
+            "voorbeeldzin": "\"Even happen... Eén, twee, drie...!\"",
             "categorie": "Yells en kreten"
         },
         {
@@ -315,14 +294,14 @@ const content = {
         },
         {
             "woord": "zeppelin",
-            "betekenis": "Kampvuurlied, waarbij iedere keer dat het wordt gezongen een woord vervangen wordt door een gebaar. Als alle woorden vervangen zijn komen ze allemaal weer terug.\n\nWe zaten met een zucht (zuchten)\nAl boven in de lucht (omhoog kijken)\nWe zaten zo gezellig in een schuitje (wiegen met armen)\nEn niemand kon ons zien (bril met handen)\nWe hadden pret voor tien (tien vingers omhoog)\nLang leve de zeppelin (vinger spiralend naar beneden bewegen)",
+            "betekenis": "Kampvuurlied, waarbij iedere keer dat het wordt gezongen een woord vervangen wordt door een gebaar. Als alle woorden vervangen zijn komen ze allemaal weer terug.<br><br>We zaten met een zucht (zuchten)<br>Al boven in de lucht (omhoog kijken)<br>We zaten zo gezellig in een schuitje (wiegen met armen)<br>En niemand kon ons zien (bril met handen)<br>We hadden pret voor tien (tien vingers omhoog)<br>Lang leve de zeppelin (vinger spiralend naar beneden bewegen)",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Ik vind de zeppelin zo'n leuk lied!\"",
             "categorie": "Liedjes"
         },
         {
             "woord": "goedzo",
-            "betekenis": "Wordt geyeld als waardering voor iemands actie:\n\nG-O-E-D-Z-O-O\nGoedzo, goedzo, goedzozo\n\n - Vaak gevolgd door:\n\n(B Z ondergoed)\nBijzondergoed",
+            "betekenis": "Wordt geyeld als waardering voor iemands actie:<br><br>G-O-E-D-Z-O-O<br>Goedzo, goedzo, goedzozo<br><br> - Vaak gevolgd door:<br><br>(B Z ondergoed)<br>Bijzondergoed",
             "prefix": "(o, meervoud: goedzo's; verkleinwoord: goedzootje)",
             "voorbeeldzin": "\"Een goedzootje is denk ik wel op zijn plaats.\"",
             "categorie": "Yells en kreten"
@@ -336,7 +315,7 @@ const content = {
         },
         {
             "woord": "Eppe en Brendel",
-            "betekenis": "Een komisch duo dat zich vaak op zomerkamp laat zien. Een terugkomend thema is Brendels angst voor kikkers. Eppe en Brendel zijn bedacht en worden gespeeld door Emiel.\n",
+            "betekenis": "Een komisch duo dat zich vaak op zomerkamp liet zien. Een terugkomend thema is Brendels angst voor kikkers. Eppe en Brendel zijn bedacht en werden gespeeld door Emiel.",
             "prefix": "(mv)",
             "voorbeeldzin": "\"Eppe en Brendel zijn echt geweldig.\"",
             "extra": "url:http:\/\/www.youtube.com\/watch?v=AwGb11OtUus",
@@ -378,7 +357,7 @@ const content = {
         },
         {
             "woord": "Emiel",
-            "betekenis": "Stamlid en voormalig scoutsleiding die bekend is van Eppe en Brendel en waargebeurde verhalen zoals 'Het roze naveltruitje'. Heet ook wel Grote Oubidoebie of Miele.",
+            "betekenis": "Voormalig stamlid en scoutsleiding die bekend is van Eppe en Brendel en waargebeurde verhalen zoals 'Het roze naveltruitje'. Heet ook wel Grote Oubidoebie of Miele.",
             "prefix": "(m)",
             "voorbeeldzin": "'Emiel, ga je een verhaal vertellen?\"",
             "categorie": "Personen en dergelijke"
@@ -437,8 +416,8 @@ const content = {
         },
         {
             "woord": "leiding",
-            "betekenis": "Geeft\/geven intructies aan welpen en scouts. Niet te verwarren met begeleiding van de RSA, waarvan de taak juist is om de RSA te helpen hun doel uit te voeren.",
-            "prefix": "(de; v; meervoud: leidings\/leidingks\/leidingen\/leidingksen; verkleinwoord: leidingkje)",
+            "betekenis": "Geeft/geven intructies aan welpen en scouts. Niet te verwarren met begeleiding van de RSA, waarvan de taak juist is om de RSA te helpen hun doel uit te voeren.",
+            "prefix": "(de; v; meervoud: leidings/leidingks/leidingen/leidingksen; verkleinwoord: leidinkje)",
             "voorbeeldzin": "\"Alle leidingksen verzamelen!\"",
             "categorie": ""
         },
@@ -479,7 +458,7 @@ const content = {
         },
         {
             "woord": "vuurbaan",
-            "betekenis": "Een lange lijn van lucifers waarvan de koppen elkaar raken, in een laag zand op de tafel gestoken. Door \u00e9\u00e9n lucifer aan te steken vat degene ernaast vlam, en dit gaat de hele lijn door. De bedoeling is een zo lang of origineel mogelijke baan te maken.",
+            "betekenis": "Een lange lijn van lucifers waarvan de koppen elkaar raken, in een laag zand op de tafel gestoken. Door één lucifer aan te steken vat degene ernaast vlam, en dit gaat de hele lijn door. De bedoeling is een zo lang of origineel mogelijke baan te maken.",
             "prefix": "(de; v; meervoud: vuurbanen; verkleinwoord: vuurbaantje)",
             "voorbeeldzin": "\"Zullen we een looping in de vuurbaan maken?\"",
             "categorie": ""
@@ -493,9 +472,9 @@ const content = {
         },
         {
             "woord": "leeuw van Vlaanderen",
-            "betekenis": "Een spel waarbij het de bedoeling is, zodra 'leeuw van Vlaanderen' wordt geroepen, van de ene kant van het veld naar de andere te rennnen zonder opgetild te worden. Wordt bij veel groepen ook wel 'Hollandse Leeuw' genoemd.",
+            "betekenis": "Een spel waarbij het de bedoeling is, zodra 'leeuw van Vlaanderen' wordt geroepen, van de ene kant van het veld naar de andere te rennnen zonder opgetild te worden. Wordt bij veel groepen ook wel incorrect 'Hollandse Leeuw' of 'Beren' genoemd.",
             "prefix": "(m)",
-            "voorbeeldzin": "\"Nee, geen leeuw van Vlaanderen!\"",
+            "voorbeeldzin": "\"Nee hè, geen leeuw van Vlaanderen!\"",
             "categorie": "Spellen"
         },
         {
@@ -538,20 +517,6 @@ const content = {
             "synonym": "RISK-bord"
         },
         {
-            "woord": "Z.L.E.T.",
-            "betekenis": "Staat voor zoen lijst ere troffee, in het leven geroepen door de RSA na verontrustend zoengedrag op voorgaande (scouting)evenementen. Het is in het geval van grandioos falen ook mogelijk om minpunten te behalen.",
-            "prefix": "(de;m)",
-            "voorbeeldzin": "\"Anne-Jan staat min 1 op de Z.L.E.T.\"",
-            "categorie": ""
-        },
-        {
-            "woord": "japen",
-            "betekenis": "Het niet altijd moedwillig, maar toch altijd op een zeer lompe manier dingen slopen.",
-            "prefix": "(werkwoord; jaapte, heeft gejaapt)",
-            "voorbeeldzin": "\"Heb je het weer gejaapt?\"",
-            "categorie": ""
-        },
-        {
             "woord": "kampvuurkuil",
             "betekenis": "Plaats op het terrein waar vuur wordt gestookt. Hier worden soms broodjes en frikadellen gemaakt.",
             "prefix": "(de; m; meervoud: kampvuurkuilen; verkleinwoord: kampvuurkuiltje)",
@@ -566,13 +531,6 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "Theitje",
-            "betekenis": "Het naar huis worden gebracht van een kamp.",
-            "prefix": "(het; o; meervoud: Theitjes)",
-            "voorbeeldzin": "\"Je gaat tocht geen Theitje doen, h\u00e8?\"",
-            "categorie": ""
-        },
-        {
             "woord": "afval",
             "synonym": "prullenbak"
         },
@@ -582,21 +540,6 @@ const content = {
             "prefix": "(de; v)",
             "voorbeeldzin": "\"Op de laatste dag van kamp vindt een hoop afvalverwerking plaats.\"",
             "categorie": ""
-        },
-        {
-            "woord": "Jaap Vink",
-            "betekenis": "Persoon die altijd stuk is, en tevens de materiaalmeester van de groep.",
-            "prefix": "(m)",
-            "voorbeeldzin": "\"Bultje Jaap!\"",
-            "categorie": "Personen en dergelijke"
-        },
-        {
-            "woord": "Vink",
-            "synonym": "Jaap Vink"
-        },
-        {
-            "woord": "Jaap",
-            "synonym": "Jaap Vink"
         },
         {
             "woord": "knetterbijl",
@@ -624,13 +567,6 @@ const content = {
             "betekenis": "De container waar het meeste gereedschap in ligt.",
             "prefix": "(de; m; meervoud: kleine containers; verkleinwoord: klein containertje)",
             "voorbeeldzin": "\"Kun je een schroevendraaier pakken uit de kleine container?\"",
-            "categorie": "Materiaal"
-        },
-        {
-            "woord": "Dercotouwtje",
-            "betekenis": "Piotouw dat \u00e9\u00e9n meter te kort is afgeknipt.",
-            "prefix": "(het; o; meervoud: Dercotouwtjes)",
-            "voorbeeldzin": "\"Weer een Dercotouwtje!\"",
             "categorie": "Materiaal"
         },
         {
@@ -662,7 +598,7 @@ const content = {
         },
         {
             "woord": "trekker",
-            "betekenis": "Een groot voertuig dat karren en dergelijke trekt. Bij Vinchem hebben we verschillende trekkers:\n\nFendt: een groene trekker van het merk Fendt\nkleine John Deere: de trekker van Jaap en Martijn\ngrote John Deere: de enige trekker met cabine.",
+            "betekenis": "Een groot voertuig dat karren en dergelijke trekt. Bij Vinchem hebben we verschillende trekkers:<br><br>Fendt: een groene trekker van het merk Fendt<br>kleine John Deere: de trekker van Jaap en Martijn<br>grote John Deere: de enige trekker met cabine.",
             "prefix": "(de; m; meervoud: trekkers; verkleinwoord: trekkertje)",
             "voorbeeldzin": "\"Trekkers zijn mooie dingen.\"",
             "categorie": "Voertuigen"
@@ -676,7 +612,7 @@ const content = {
         },
         {
             "woord": "middagscouts",
-            "betekenis": "Scoutsgroep die bestond tussen seizoen 2006-2007 en 2010-2011. Hun afwachtende instelling werd soms onterecht voor luiheid aangezien. Oud-leden verzetten zich tegen het gebruik van woord 'verkenners' omdat deze niet meer officieel is.",
+            "betekenis": "Scoutsgroep die bestond tussen seizoen 2006-2007 en 2010-2011. Hun afwachtende instelling werd soms onterecht voor luiheid aangezien. Oud-leden verzetten zich tegen het gebruik van woord 'verkenners' omdat dit niet meer officieel is.",
             "prefix": "(de; mv)",
             "voorbeeldzin": "\"Mag ik de verkennerswet?\" \"De scoutswet!\"",
             "categorie": ""
@@ -696,22 +632,8 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "lesbian vampire killers",
-            "betekenis": "Slechte film die graag wordt bekeken door explorers. De film gaat over twee mannen die lesbische vampieren moeten vermoorden. De film is eigendom Rolf die hem heeft verkregen tijdens de sinterklaasopkomst van 2012.",
-            "prefix": "(m)",
-            "voorbeeldzin": "\"Zullen we lesbian vampire killers kijken?\"",
-            "categorie": ""
-        },
-        {
-            "woord": "blauwe konijn",
-            "betekenis": "Blauwgekleurd knaagdier dat hoofdpersoon is in Thijs' ergste nachtmerries.",
-            "prefix": "(het; o; meervoud: blauwe konijnen; verkleinwoord: blauw konijntje)",
-            "voorbeeldzin": "\"Kijk uit voor het blauwe konijn, Thijs!\"",
-            "categorie": "Personen en dergelijke"
-        },
-        {
             "woord": "waterscouts",
-            "betekenis": "Stelletje prutsers die gekleed gaan in blauwe blouses (alle speltakken) en in de ogen van de buitenwereld alleen maar bezig zijn met bootjes en water. Voelen zichzelf (onterecht) beter dan landscouts.",
+            "betekenis": "Stelletje prutsers die gekleed gaan in blauwe blouses (alle speltakken) en in de ogen van de buitenwereld alleen maar bezig zijn met bootjes en water. Voelen zichzelf vaak (onterecht) beter dan landscouts, terwijl landscouts zichzelf vaak (terecht) beter voelen dan waterscouts.",
             "prefix": "(mv)",
             "voorbeeldzin": "Waterscouts varen op een lelievlot.",
             "categorie": ""
@@ -725,7 +647,7 @@ const content = {
         },
         {
             "woord": "Fundays",
-            "betekenis": "Jaarlijks driedaags evenement waar de Vinchem scouts, RSA en de stam om het jaar aan deelneemt. Tijdens het evenement kun je onbeperkt Walibi Holland in en daarnaast hebben alle campinggasten vrije toegang tot het feestterrein waar ook campingwinkels zoals een HEMA zijn. Vooral het ontbijt van voorgenoemde is aan te raden.",
+            "betekenis": "Jaarlijks driedaags evenement waar de Vinchem scouts, RSA en de stam om het jaar aan deelneemt. Tijdens het evenement kun je onbeperkt Walibi Holland in en daarnaast hebben alle campinggasten vrije toegang tot het feestterrein. In 1029 gingen de Fundays voor het eerst niet door.",
             "prefix": "(de; mv)",
             "voorbeeldzin": "\"Dat feest valt echt tegen!\"",
             "categorie": ""
@@ -734,7 +656,7 @@ const content = {
             "woord": "duct tape",
             "betekenis": "Plastic tape die in principe elk probleem kan oplossen. Er wordt geroepen dat duct tape de wereld bij elkaar houdt.",
             "prefix": "(de; m)",
-            "voorbeeldzin": "\"De kampeervaardigheid kan het gebruik van ductape niet waarderen.\"",
+            "voorbeeldzin": "\"De kampeervaardigheid kan het gebruik van duct tape niet waarderen.\"",
             "categorie": ""
         },
         {
@@ -810,7 +732,7 @@ const content = {
         },
         {
             "woord": "kletspoot",
-            "betekenis": "Een zeer vochtige voet en\/of been. Een kletspoot ontstaat meestal door het uitglijden in een sloot.",
+            "betekenis": "Een zeer vochtige voet en/of been. Een kletspoot ontstaat meestal door het uitglijden in een sloot.",
             "prefix": "(de; m; meervoud: kletspoten)",
             "voorbeeldzin": "\"Nee, h\u00e8. Een kletspoot!\"",
             "categorie": ""
@@ -819,7 +741,7 @@ const content = {
             "woord": "spooktocht",
             "betekenis": "Een tocht door het donker waar welpen en scouts 's nachts voor wakker gemaakt worden die bijna ieder jaar wordt afgelast en toch door blijkt te gaan.",
             "prefix": "(de; m; meervoud: spooktochten)",
-            "voorbeeldzin": "\"Is er dit jaar een spooktocht?\"",
+            "voorbeeldzin": "\"Is er dit jaar een spooktocht?\" \"Nee, er zitten everzwijnen in het bos!\"",
             "categorie": ""
         },
         {
@@ -914,7 +836,7 @@ const content = {
         },
         {
             "woord": "schwalbe",
-            "betekenis": "\"Feestent tijdens zomerkamp voor de stam en RSA.\"",
+            "betekenis": "Feestent tijdens zomerkamp voor de stam en RSA.",
             "prefix": "(de; m; meervoud: schwalbes)",
             "voorbeeldzin": "\"Leidingranja drinken doe je in de Schwalbe.\"",
             "categorie": "Plaatsen"
@@ -955,18 +877,11 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "Hasel\u00fcnne",
+            "woord": "Hasellünne",
             "betekenis": "Een plaats in Duitland waar meeerdere zomerkampen van de groep plaatsvonden.",
             "prefix": "()",
             "voorbeeldzin": "\"Gaan we dit jaar weer naar Hasel\u00fcnne?\"",
             "categorie": ""
-        },
-        {
-            "woord": "kikker",
-            "betekenis": "Bijnaam van Raymond Kersaan die vermoedelijk nog stamt uit zijn welpentijd, toen hij als hyperactief jongetje snel op en neer bewoog in zijn groene blouse.",
-            "prefix": "(m)",
-            "voorbeeldzin": "\"Je moet voor de spanbanden even naar Kikker.\"",
-            "categorie": "Personen en dergelijke"
         },
         {
             "woord": "opkomst",
@@ -988,7 +903,7 @@ const content = {
         },
         {
             "woord": "barkaart",
-            "betekenis": "Kaart waarmee een versnapering bij de bar gehaald kan worden. Bestaat uit twintig hokjes van 25cent en is in totaal vijf euro waard. Het is niet toegestaan om zonder toestemming te drinken van andermans barkaart.",
+            "betekenis": "Kaart waarmee een versnapering bij de bar gehaald kan worden. Bestaat uit twintig hokjes van 25cent en is in totaal vijf euro waard. Het is niet toegestaan om zonder toestemming te drinken van andermans barkaart. Tegenwoordig zijn er ook NFC-chips waarmee bij een speciale telefoon kan worden afgerekend.",
             "prefix": "(de; v; meervoud: barkaarten)",
             "voorbeeldzin": "\"De barkaarten liggen in de la.\"",
             "categorie": ""
@@ -1002,7 +917,7 @@ const content = {
         },
         {
             "woord": "porta potti",
-            "betekenis": "Klein mobiel toilet dat gebruikt wordt tijdens het NPK. Het legen ervan is een vervelende klus.",
+            "betekenis": "Klein mobiel toilet dat gebruikt wordt tijdens het NPK. Het legen ervan is voor sommigen een vervelende klus, maar voor anderen juist een zegen en/of onderhandelingsmiddel.",
             "prefix": "(de; m; meervoud: porta potti's)",
             "voorbeeldzin": "\"Nog even en dan stroomt de porta potti over.\"",
             "categorie": ""
@@ -1012,13 +927,6 @@ const content = {
             "betekenis": "Leverpastei.",
             "prefix": "(het; o)",
             "voorbeeldzin": "\"Kun je het smeervarken aangeven?\"",
-            "categorie": ""
-        },
-        {
-            "woord": "swag",
-            "betekenis": "Een aanduiding voor onderontwikkelde mensen waarmee ze de mate van hun sex appeal en domheid aan willen tonen. Ronduit een van de meest gehate woorden onder de mensen van scouting en de gemiddeld ontwikkelde medemens.",
-            "prefix": "()",
-            "voorbeeldzin": "\"Ik heb swag #NOoneCARES!\"",
             "categorie": ""
         },
         {
@@ -1041,7 +949,7 @@ const content = {
         },
         {
             "woord": "NHW",
-            "betekenis": "\"Afkorting die staat voor de Noordelijke Hike Wedstrijden, die worden gehouden rond de herfstvakantie , waar iedereen individueel aan deel kan nemen\"",
+            "betekenis": "Afkorting die staat voor de Noordelijke Hike Wedstrijden, die worden gehouden rond de herfstvakantie, waar iedereen individueel aan deel kan nemen",
             "prefix": "(de; meervoud)",
             "voorbeeldzin": "\"NHW was dit jaar in Drouwenerzand.\"",
             "categorie": ""
@@ -1069,14 +977,14 @@ const content = {
         },
         {
             "woord": "akela-ranja",
-            "betekenis": "Ranja , perfect gemaakt door Akela.",
+            "betekenis": "Ranja, perfect gemaakt door Akela.",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Hmm, dit is vast akela ranja!\"",
             "categorie": "Voedsel"
         },
         {
             "woord": "loods",
-            "betekenis": "Opslagplaats die na jaren speculeren eindelijk wordt geplaatst. Is bedoeld om materiaal van scouting Vinchem in op te slaan.",
+            "betekenis": "Overdekte opslagplaats voor materiaal van scouting Vinchem.",
             "prefix": "(de; m; meervoud: loodsen)",
             "voorbeeldzin": "\"Wacht maar, als de loods er straks is...\"",
             "categorie": ""
@@ -1087,13 +995,6 @@ const content = {
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Dat moet de T.C.V. maar regelen.\"",
             "categorie": ""
-        },
-        {
-            "woord": "clown van Hasel\u00fcnne",
-            "betekenis": "Een figuur uit Antons immense fantasie die kinderen in de omgeving vermoordt en hun lichamen achterlaat op de bodem van de Hase, gevuld met stenen zodat de lichamen niet gaan drijven. Misdrijven gepleegd door de clown zijn te herkennen aan de witte waas die zijn schmink achterlaat in het water.",
-            "prefix": "(de; m)",
-            "voorbeeldzin": "\"Kijk maar uit of je wordt gepakt door de clown van Hasell\u00fcne!\"",
-            "categorie": "Personen en dergelijke"
         },
         {
             "woord": "exxploraxxion",
@@ -1139,17 +1040,10 @@ const content = {
         },
         {
             "woord": "Hello World!",
-            "betekenis": "Een vreselijk lied, geschreven ter ere van Scouts2day. Bevat een aantal ernstige grammaticale misstapen en slechte vertalingen. Het exemplaar van scouting Vinchem is in de magnetron gestopt, om het voor eens en altijd te vernietigen.",
+            "betekenis": "Een vreselijk lied, geschreven ter ere van Scouts2day. Bevat een aantal ernstige grammaticale misstapen en slechte vertalingen. Een exemplaar van scouting Vinchem is in de magnetron gestopt, om het voor eens en altijd te vernietigen.",
             "prefix": "()",
             "voorbeeldzin": "\"HELLO WORLD, WE HAVE A MISSION!\"",
             "categorie": ""
-        },
-        {
-            "woord": "hotel Kleiweg",
-            "betekenis": "Plaats in Winsum waar alle leden van scouting Vinchem van binnen en buiten het dorp kosteloos kunnen overnachten als zij de volgende ochtend de hond maar uitlaten.",
-            "prefix": "(het; o)",
-            "voorbeeldzin": "\"Vanavond slapen veel explorers in hotel Kleiweg.\"",
-            "categorie": "Plaatsen"
         },
         {
             "woord": "weerwolven van Wakkerdam",
@@ -1181,7 +1075,7 @@ const content = {
         },
         {
             "woord": "Spar",
-            "betekenis": "Supermarkt die het dichtste bij het scoutinggebouw ligt. De plek voor een snelle hap. Verkoopt ook heerlijke frikandelbroodjes.",
+            "betekenis": "Supermarkt die het dichtste bij het scoutinggebouw ligt. De plek voor een snelle hap. Verkoopt ook heerlijke frikandelbroodjes.[Bron?]",
             "prefix": "(de; m; meervoud: Sparren)",
             "voorbeeldzin": "\"Ik ga naar de Spar, wil jij ook iets?\"",
             "categorie": ""
@@ -1220,14 +1114,14 @@ const content = {
         },
         {
             "woord": "Coma",
-            "betekenis": "Supermarkt in Hasel\u00fcnne, waar vaak de boodschappen voor het zomerkamp gehaald worden, ondanks dat hij naast een ALDI staat.",
+            "betekenis": "Supermarkt in Haselünne, waar vaak de boodschappen voor het zomerkamp gehaald worden, ondanks dat hij naast een ALDI staat.",
             "prefix": "(de; m; Coma's)",
             "voorbeeldzin": "\"Wie heeft die Coma-sticker op de koelkast geplakt?\"",
             "categorie": ""
         },
         {
             "woord": "Nash",
-            "betekenis": "Snackbar in het centrum van Hasel\u00fcnne en een waardig vervanger van 't centrum tijdens zomerkamp. Alleen is de patat wat slap.",
+            "betekenis": "Snackbar in het centrum van Haselünne en een waardig vervanger van 't centrum tijdens zomerkamp. Alleen is de patat wat slap.",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"De patat komt van de Nash.\"",
             "categorie": ""
@@ -1240,8 +1134,8 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "Hasel\u00fcnner Freibad",
-            "betekenis": "Zwembad in Hasel\u00fcnne met zeer lage toegangsprijzen en mede daardoor een goed alternatief voor een douche tijdens zomerkamp. Ook de vaste plek voor het groepsuitje.",
+            "woord": "Haselünner Freibad",
+            "betekenis": "Zwembad in Haselünne met zeer lage toegangsprijzen en mede daardoor een goed alternatief voor een douche tijdens zomerkamp. Ook de vaste plek voor het groepsuitje.",
             "prefix": "(het; o)",
             "voorbeeldzin": "\"Gaan jullie straks ook mee zwemmen?\"",
             "categorie": "Plaatsen"
@@ -1256,13 +1150,13 @@ const content = {
         {
             "woord": "groepsuitje",
             "betekenis": "Activiteit die plaats vindt tijdens het Zomerkamp, met de gehele groep.",
-            "prefix": null,
+            "prefix": "(het; o; meervoud: groepsuitjes)",
             "voorbeeldzin": "\"We gaan zwemmen met het groepsuitje.\"",
             "categorie": ""
         },
         {
             "woord": "bonte avond",
-            "betekenis": "Avond tijdens zomerkamp (op donderdagavond) met vooral veel liedjes. Vaste onderdelen van de avond zijn 'Eppe en Brendel' en het zomerkamplied.",
+            "betekenis": "Avond tijdens zomerkamp (op donderdagavond) met vooral veel liedjes. Bekende oud-onderdelen van de avond zijn 'Eppe en Brendel' en het zomerkamplied.",
             "prefix": "(de; m; meervoud: bonte avonden)",
             "voorbeeldzin": "\"Het regent gelukkig niet tijdens de bonte avond.\"",
             "categorie": ""
@@ -1290,15 +1184,15 @@ const content = {
         },
         {
             "woord": "pannenkoek",
-            "betekenis": "Heerlijk gerecht. Wordt altijd gegeten als het laatste gerecht op zomerkamp op vrijdagmiddag .Soms met een scheut kleurstof. Het is niet aan te raden deze te bakken op een houtvuur.",
+            "betekenis": "Heerlijk gerecht. Wordt altijd gegeten als het laatste gerecht op zomerkamp op vrijdagmiddag. Soms met een scheut kleurstof. Het is niet aan te raden deze te bakken op een houtvuur.",
             "prefix": "(de; m; meervoud: pannenkoeken)",
             "voorbeeldzin": "\"Pannenkoeken zijn mijn lievelingseten.\"",
             "categorie": ""
         },
         {
             "woord": "Berentzen",
-            "betekenis": "Drankstokerij in Hasel\u00fcnne en in heel Nederland geroemd om haar apfelkorn. Verder een goede plek om drank in te slaan tijdens zomerkamp, gezien de zeer lage prijzen.",
-            "prefix": null,
+            "betekenis": "Drankstokerij in Haselünne en in heel Nederland geroemd om haar apfelkorn. Verder een goede plek om drank in te slaan tijdens zomerkamp, gezien de zeer lage prijzen.",
+            "prefix": "()",
             "voorbeeldzin": "\"De apfelkorn van Berentzen is erg lekker.\"",
             "categorie": ""
         },
@@ -1324,18 +1218,8 @@ const content = {
             "categorie": ""
         },
         {
-            "woord": "blonde god",
-            "betekenis": "Mannelijk lid van scouting Hattem met een bos platina blond haar. Werd wel aantrekkelijk gevonden door een niet nader te noemen begeleiding tijdens het RSA-zomerkamp in Lohmen.",
-            "prefix": "(de; m)",
-            "voorbeeldzin": "\"Waar is die blonde god heen?\"",
-            "categorie": "Personen en dergelijke"
-        },
-        {
             "woord": "ontrgroenen",
-            "betekenis": "ontgroening",
-            "prefix": null,
-            "voorbeeldzin": null,
-            "categorie": ""
+            "betekenis": "ontgroening"
         },
         {
             "woord": "hunt",
@@ -1353,16 +1237,16 @@ const content = {
         },
         {
             "woord": "blokjesspel",
-            "betekenis": "Spel waarbij een groep wordt onderverdeeld in twee teams en elke persoon van allebei de teams een individueel nummer krijgt. Beide teams hebben dezelfde nummers. De teams nemen plaats achter de lijnen. In het midden van het veld staat een bak op de middenlijn met een blokje dan wel een ander voorwerp erin. Wanneer door de spelleiders een getal wordt geroepen dienen de spelers met dit getal naar bak te rennen, zonder de middenlijn over te steken. Het is nu de bedoeling dat \u00e9\u00e9n van beiden het snelste het blokje pakt en terug rent naar zijn eigen lijn. Zodra de een het blokje heeft mag de ander de middenlijn oversteken om de ander af te tikken. Het team dat als eerste met het blokje over de lijn loopt of de ander aftikt krijgt een punt. Bij het roepen van de getallen mogen ook meerdere getallen worden geroepen of kunnen er rekensommen gegeven worden waarvan de uitkomst moet rennen.",
+            "betekenis": "Spel waarbij een groep wordt onderverdeeld in twee teams en elke persoon van allebei de teams een individueel nummer krijgt. Beide teams hebben dezelfde nummers. De teams nemen plaats achter de lijnen. In het midden van het veld staat een bak op de middenlijn met een blokje dan wel een ander voorwerp erin. Wanneer door de spelleiders een getal wordt geroepen dienen de spelers met dit getal naar bak te rennen, zonder de middenlijn over te steken. Het is nu de bedoeling dat één van beiden het snelste het blokje pakt en terug rent naar zijn eigen lijn. Zodra de een het blokje heeft mag de ander de middenlijn oversteken om de ander af te tikken. Het team dat als eerste met het blokje over de lijn loopt of de ander aftikt krijgt een punt. Bij het roepen van de getallen mogen ook meerdere getallen worden geroepen of kunnen er rekensommen gegeven worden waarvan de uitkomst moet rennen.",
             "prefix": "(het; o; meervoud: blokjesspellen)",
             "voorbeeldzin": "\"Met haloween speelden we het blokjesspel met een spook in plaats van een blokje.\"",
             "categorie": "Spellen"
         },
         {
             "woord": "Annemaria Koekoek",
-            "betekenis": "Een spel waarbij een speler tegen een muur of iets dergelijks staat, met de rug naar de andere spelers die zich verschansen achter een lijn. De speler bij de muur draait zich om na het uitspreken van de woorden 'Annemaria Koekoek' waarna alle andere spelers doodstil moeten staan. Staan ze niet stil, dan worden ze teruggestuurd naar de beginlijn. De spelers kunnen zich bewegen wanneer de persoon bij de muur met zijn\/haar rug naar hen toe staat. Degene die de speler bij de muur als eerste aanraakt is de volgende 'Annemaria'",
+            "betekenis": "Een spel waarbij een speler tegen een muur of iets dergelijks staat, met de rug naar de andere spelers die zich verschansen achter een lijn. De speler bij de muur draait zich om na het uitspreken van de woorden 'Annemaria Koekoek' waarna alle andere spelers doodstil moeten staan. Staan ze niet stil, dan worden ze teruggestuurd naar de beginlijn. De spelers kunnen zich bewegen wanneer de persoon bij de muur met zijn/haar rug naar hen toe staat. Degene die de speler bij de muur als eerste aanraakt is de volgende 'Annemaria'",
             "prefix": "()",
-            "voorbeeldzin": "\"De RSA speelde voorheen heel vaak annamaria koekkoek\"",
+            "voorbeeldzin": "\"De RSA speelde voorheen heel vaak annamaria koekkoek.\"",
             "categorie": ""
         },
         {
@@ -1427,7 +1311,7 @@ const content = {
         },
         {
             "woord": "bereidheidsverklaring",
-            "betekenis": "Verklaring die wordt opgezegd door explorers tijdens de opening.<br><br>'Een explorer trekt er samen met anderen op uit om de wereld om zich heen te ontdekken en deze meer leefbaar te maken.<br>Met de inzet van mijn mogelijkheden en met eerbied voor alles wat leeft probeer ik de kansen die ik krijg te benutten.<br>Ik probeer zo goed mogelijk om te gaan met de middelen die mij ter beschikking staan.<br>Ik respecteer mijzelf en anderen.'<br><br>Slechts een verassend klein aantal explorers kent deze bereidheidsverklaring. Soms wordt er per ongeluk ook 'ik probeer de kansen die ik krijg zo goed mogelijk te benutten' gezegd, maar dit is officieel onjuist. Sommige groepen zeggen in plaats van 'en anderen' 'en een ander'.",
+            "betekenis": "Verklaring die wordt opgezegd door explorers tijdens de opening.<br><br>'Een explorer trekt er samen met anderen op uit om de wereld om zich heen te ontdekken en deze meer leefbaar te maken.<br>Met de inzet van mijn mogelijkheden en met eerbied voor alles wat leeft probeer ik de kansen die ik krijg te benutten.<br>Ik probeer zo goed mogelijk om te gaan met de middelen die mij ter beschikking staan.<br>Ik respecteer mijzelf en anderen.'<br><br>Slechts een verassend klein aantal explorers kent deze bereidheidsverklaring. Soms wordt er per ongeluk ook 'ik probeer de kansen die ik krijg zo goed mogelijk te benutten' gezegd, maar dit is onjuist. Sommige groepen zeggen in plaats van 'en anderen' 'en een ander'.",
             "prefix": "(de; v; meervoud: bereidheidsverklaringen)",
             "voorbeeldzin": "\"Mag ik de bereidheidsverklaring?\"",
             "categorie": ""
@@ -1490,7 +1374,7 @@ const content = {
         },
         {
             "woord": "DJB",
-            "betekenis": "Onderdeel van de welpenopening. Wordt uitgesproken als ' djip'. Wordt aangevraagd met: 'Mag ik de DJB?'<br>Een welp antwoord met: 'Wij DJB, DJB, DJB, DJB' en de rest reageert met 'Wij DOB, DOB, DOB, DOB.'<br>DJB staat voor Doe Je Best en DOB voor Doen ons best.",
+            "betekenis": "Onderdeel van de welpenopening. Wordt uitgesproken als 'djip'. Wordt aangevraagd met: 'Mag ik de DJB?'<br>Een welp antwoord met: 'Wij DJB, DJB, DJB, DJB' en de rest reageert met 'Wij DOB, DOB, DOB, DOB.'<br>DJB staat voor Doe Je Best en DOB voor Doen ons best.",
             "prefix": "(de; m; meervoud: DJB's)",
             "voorbeeldzin": "\"Mag ik de DJB?\"",
             "categorie": ""
@@ -1543,7 +1427,7 @@ const content = {
         },
         {
             "woord": "scoutingranja",
-            "betekenis": "Ranja die extreem veel water en weinig siroop bevat waardoor het naar water smaakt en er in een beker uitziet als troebel water. Niet alle ranja op scouting is scoutingranja; Akela ranja is een uitzondering.",
+            "betekenis": "Ranja die extreem veel water en weinig siroop bevat waardoor het naar water smaakt en er in een beker uitziet als troebel water. Niet alle ranja op scouting is scoutingranja; Akelaranja is een uitzondering.",
             "prefix": "()",
             "voorbeeldzin": "\"Bah, scoutingranja!\"",
             "categorie": "Voedsel"
@@ -1558,7 +1442,7 @@ const content = {
         },
         {
             "woord": "scouting Zeeland",
-            "betekenis": "Naast de provincie ook een bestaande plaats in Noord-Brabant waar de alter ego van scouting Vinchem vandaan komt. 'Scouting Zeeland' zoals zij zichzelf gekscherend noemen is ook in het bezit van een eigen yell.<br><br>Z - dubbel E - L - A - N - D<br>Zeeland, zeeland, zeeland is ok\u00e9<br>Say what?<br>ZEELAND!<br>Wat voor een eland?<br>ZEELAND!",
+            "betekenis": "Naast de provincie ook een bestaande plaats in Noord-Brabant waar de alter ego van scouting Vinchem vandaan komt. 'Scouting Zeeland' zoals zij zichzelf gekscherend noemen is ook in het bezit van een eigen yell.<br><br>Z - dubbel E - L - A - N - D<br>Zeeland, zeeland, zeeland is oké<br>Say what?<br>ZEELAND!<br>Wat voor een eland?<br>ZEELAND!",
             "prefix": "()",
             "voorbeeldzin": "\"Wat voor een eland?\"",
             "categorie": ""
@@ -1590,7 +1474,7 @@ const content = {
         },
         {
             "woord": "scoutingschoon",
-            "betekenis": "Misschien niet heel erg schoon, maar schoon genoeg. Wordt vaak gebruikt tijdens het afwassen, als iets schoon lijkt wordt het goedgekeurd. Populaire methode omdat het veel tijd bespaart en tot nu toe nog geen slachtoffers heeft ge\u00ebist.",
+            "betekenis": "Misschien niet heel erg schoon, maar schoon genoeg. Wordt vaak gebruikt tijdens het afwassen, als iets schoon lijkt wordt het goedgekeurd. Populaire methode omdat het veel tijd bespaart en officieel nog geen slachtoffers heeft geëist.",
             "prefix": "()",
             "voorbeeldzin": "\"Het bord is scoutingschoon.\"",
             "categorie": ""
@@ -1654,7 +1538,7 @@ const content = {
         },
         {
             "woord": "breaklightspel",
-            "betekenis": "E\u00e9n van de oneerlijkste spellen binnen scouting. Het doel is in het donker geluidloos door het struikgewas een breaklight aan te raken. Maak jij, of wat veel vaker voorkomt, iemand achter je een geluid, dan wordt er op je geschenen en moet je terug naar het begin.",
+            "betekenis": "Eén van de oneerlijkste spellen binnen scouting. Het doel is in het donker geluidloos door het struikgewas een breaklight aan te raken. Maak jij, of wat veel vaker voorkomt, iemand achter je een geluid, dan wordt er op je geschenen en moet je terug naar het begin.",
             "prefix": "(het; o; meervoud: breaklightspellen; verkleinwoord: breaklightspelletje)",
             "voorbeeldzin": "\"Niet weer het breaklightspel, h\u0117?\"",
             "categorie": "Spellen"
@@ -1700,14 +1584,14 @@ const content = {
         },
         {
             "woord": "Het is een nacht",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2009 met het thema 'Asterix en Obelix', op de melodie van het gelijknamige lied van Guus Meeuwis.\n\nDe tekst (uit herinneringen gereconstrueerd en daarom niet compleet):\n\n\"Ik lig in mijn tent, een drup op het doek\nIk wil wel gaan slapen, maar mijn slaapzak is zoek\nHier is een been, en hier is een arm\nSlaapzak gevonden, hij ligt lekker warm\nIk vraag: mag ik wat chips\nMaar de leiding zegt dan tegen ons: 'Dat vinden we niks\nDe schemering, \nDe leiding die zeurt\nWe hebben al straf...\nMaar we zijn nog niet getreurd!\n\nHet is een nacht\nDie je normaal alleen in films ziet Het is een nacht\nDie wordt bezongen in het mooiste lied Het is een nacht waarvan ik dacht dat ik hem\nNooit beleven zou\nMaar vannacht beleef ik hem\nMet jou\n\nWe staan nu buiten, het is koud en nat\nWe mogen niet praten, maar toch zeggen we wat\n-------\n-------------\nEnergy, in de WC\nDat deden we niet, maar we hadden het wel mee!\n(Nee, we hadden het niet mee)\"",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2009 met het thema 'Asterix en Obelix', op de melodie van het gelijknamige lied van Guus Meeuwis.<br><br>De tekst (uit herinneringen gereconstrueerd en daarom niet compleet):<br><br>\"Ik lig in mijn tent, een drup op het doek<br>Ik wil wel gaan slapen, maar mijn slaapzak is zoek<br>Hier is een been, en hier is een arm<br>Slaapzak gevonden, hij ligt lekker warm<br>Ik vraag: mag ik wat chips<br>Maar de leiding zegt dan tegen ons: 'Dat vinden we niks<br>De schemering, <br>De leiding die zeurt<br>We hebben al straf...<br>Maar we zijn nog niet getreurd!<br><br>Het is een nacht<br>Die je normaal alleen in films ziet Het is een nacht<br>Die wordt bezongen in het mooiste lied Het is een nacht waarvan ik dacht dat ik hem<br>Nooit beleven zou<br>Maar vannacht beleef ik hem<br>Met jou<br><br>We staan nu buiten, het is koud en nat<br>We mogen niet praten, maar toch zeggen we wat<br>-------<br>-------------<br>Energy, in de WC<br>Dat deden we niet, maar we hadden het wel mee!<br>(Nee, we hadden het niet mee)\"",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": ""
         },
         {
             "woord": "Op naar MCO",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2010 met het thema 'Op naar MCO', op de melodie van 'Stick to the status quo'.<br><br>De tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>REFREIN:<br>\"No, no, no, no, no, no, no<br>Op naar MCO<br>We hebben veel pijn<br>en dat is niet fijn<br>Dus op naar MCO<br>Genezen, dat doen we zo!<br><br>Jongens we hebben er \u00e9\u00e9n<br>en hij is niet fake<br>Ja, we hebben alweer een teek<br>De vijfde alweer, <br>we stuit'ren op en neer<br>En van vreugde omdat het geen vuiltje bleek<br>We noemen de naam niet van deze gek (Lennart)<br>Een inrichting is goed",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2010 met het thema 'Op naar MCO', op de melodie van 'Stick to the status quo'.<br><br>De tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>REFREIN:<br>\"No, no, no, no, no, no, no<br>Op naar MCO<br>We hebben veel pijn<br>en dat is niet fijn<br>Dus op naar MCO<br>Genezen, dat doen we zo!<br><br>Jongens we hebben er één<br>en hij is niet fake<br>Ja, we hebben alweer een teek<br>De vijfde alweer, <br>we stuit'ren op en neer<br>En van vreugde omdat het geen vuiltje bleek<br>We noemen de naam niet van deze gek<br>Een inrichting is goed",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": ""
@@ -1721,21 +1605,21 @@ const content = {
         },
         {
             "woord": "We hielpen de Maya's",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2012 met het thema 'Op reis naar de Maya's', op de melodie van 'Summer Paradise'.<br><br>Deze tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>We denken te-rug aan de middag-<br>tijd met Anton, Roald en Martijn<br>NPK met Peter, paalzitten werkt beter<br>dan de straffen die we dit jaar moesten doen<br>Want dreigen, Gadaffi is er niks bij<br>maar met straffen, CU stemt vast voor<br><br>REFEIN:<br>We hielpen de Maya's<br>Een mayatastische tijd<br>Het was een machtig mooi kamp<br>Applausje voor de stam<br>En we denken straks terug<br>Terug aan zomerkamp met uhuhu<br>En de beste was -Eigen groep invullen-<br>Maar waar was nu Roald?<br><br>Op een mooie avond kwam de leiding<br>Komt allemaal maar uit die facking tent<br>Lijntje maken, stil ons volgen<br>Geen straffen maar iets ergers in het zand<br>En Jelmer, klagend over scouting<br>Dus die jongen zien we nooit meer terug!<br><br>De pet van tante Jet\/rond het kampvuur<br>Mag hij mee, ik heb echt geen idee<br>-------<br>--------<br>--------<br>--------",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2012 met het thema 'Op reis naar de Maya's', op de melodie van 'Summer Paradise'.<br><br>Deze tekst is niet compleet omdat hij is gereconstrueerd uit herinneringen.<br><br>We denken te-rug aan de middag-<br>tijd met Anton, Roald en Martijn<br>NPK met Peter, paalzitten werkt beter<br>dan de straffen die we dit jaar moesten doen<br>Want dreigen, Gadaffi is er niks bij<br>maar met straffen, CU stemt vast voor<br><br>REFEIN:<br>We hielpen de Maya's<br>Een mayatastische tijd<br>Het was een machtig mooi kamp<br>Applausje voor de stam<br>En we denken straks terug<br>Terug aan zomerkamp met uhuhu<br>En de beste was -Eigen groep invullen-<br>Maar waar was nu Roald?<br><br>Op een mooie avond kwam de leiding<br>Komt allemaal maar uit die facking tent<br>Lijntje maken, stil ons volgen<br>Geen straffen maar iets ergers in het zand<br>En Jelmer, klagend over scouting<br>Dus die jongen zien we nooit meer terug!<br><br>De pet van tante Jet/rond het kampvuur<br>Mag hij mee, ik heb echt geen idee<br>-------<br>--------<br>--------<br>--------",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": "Liedjes"
         },
         {
             "woord": "Witte veder",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2013 met het thema 'Cowboys en Indianen', op de melodie van het koningslied.<br><br>Daar staan we dan<br>gestopt op de fiets door een schattige kitten<br>En daar is het dan<br>Nog meer uit de bosjes, het is een gigantische groep<br>Mag ik ze houden?<br>Annigje, alsjeblieft?<br><br>Daar sta je dan<br>(Wat zijn scouts toch verschrikkelijke stumpers)<br>De vuurtafel dondert alweer naar beneden<br>(Ochtendscouts kunnen niet knopen)<br>Daar is het dan<br>Swaggerpettie is een eenmansbordeel met swag<br>Kan hij normaal doen<br>Zal hij dat ooit echt zijn<br><br>REFREIN:<br>Witte Veder zei \"Wie wint<br>kan op mijn plaats komen staan\"<br>En de bizons zijn gelukkig ook weer terug<br>We eten onze buiken rond<br>Het irokezenopperhoofd<br>Maar de besta was -Eigen groep invullen-<br><br>Twee slaapzakken, drie welpen<br>Domme Kaa die z'aan sisal ging helpen<br>Twee leidinks, 1 Akela, ze sliepen hen kon het niet schelen<br>Zij aan zij, borst vooruit, trots als een pauw, zonder geluid<br>En hoe klein ze ook zijn,<br>Hun daden waren groot, gaan niet onderuit<br>Voor jou, mijn welp, voor Kaa, voor Oe<br>Knoop je slaapzak door wind en regen, en zal<br>Jullie nakken zolang jullie bestaan<br>Bouw een bultje met elkaar<br>En hou de kou bij jullie vandaan<br><br>Alle spullen uit de tas<br>Piramide in de tent<br>Port'monnee en pasjes, we zijn nog steeds op zoek<br>Een bult van meuk kunnen wij ook<br>Ondervond de witte tent<br>Camouflage van luifel met paal<br>Mooie glazen, Eiscaf\u00e9<br>Valkins ranja, zo doorheen<br>Christiaans pizza bevatte een haar<br><br>De V van Vinchem<br>Twee vingers in de lucht, kom op, kom op<br>De V van Vinchem is de V van Wij<br>Witte Veder staat aan onze zij<br>De V van Valsspelen bij een spel<br>De burchtenregels verand'ren snel<br>De V van altijd Vrolijk zijn<br>Ook al doet je pees of hoofd soms pijn<br>De V van Vinchem, de V van Vinchem<br>De V van spijkermeppen doen<br>De RSA nog niet ontgroen'<br>De V van Vega's accepteren<br>En zeggen dat ze vlees eten moeten leren<br>De V van huilie huilie doen<br>Wraps met chili en kalkoen<br>En dus zingen we vandaag van:<br><br>Refrein<br><br>Enge spooktocht in het bos<br>Giech'lende bosjes spuiten nat<br>Veders demoon eruit gerukt<br>Lag te branden op het vuur<br>Ja, benzine brandt echt zeer goed<br>Arie's haar mooi groen geverfd<br>Een verrader van zijn stam<br>Maar het gaat uiteraard om de lol<br>Ja, het gaat uiteraard om de lol",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2013 met het thema 'Cowboys en Indianen', op de melodie van het koningslied.<br><br>Daar staan we dan<br>gestopt op de fiets door een schattige kitten<br>En daar is het dan<br>Nog meer uit de bosjes, het is een gigantische groep<br>Mag ik ze houden?<br>Annigje, alsjeblieft?<br><br>Daar sta je dan<br>(Wat zijn scouts toch verschrikkelijke stumpers)<br>De vuurtafel dondert alweer naar beneden<br>(Ochtendscouts kunnen niet knopen)<br>Daar is het dan<br>Swaggerpettie is een eenmansbordeel met swag<br>Kan hij normaal doen<br>Zal hij dat ooit echt zijn<br><br>REFREIN:<br>Witte Veder zei \"Wie wint<br>kan op mijn plaats komen staan\"<br>En de bizons zijn gelukkig ook weer terug<br>We eten onze buiken rond<br>Het irokezenopperhoofd<br>Maar de besta was -Eigen groep invullen-<br><br>Twee slaapzakken, drie welpen<br>Domme Kaa die z'aan sisal ging helpen<br>Twee leidinks, 1 Akela, ze sliepen hen kon het niet schelen<br>Zij aan zij, borst vooruit, trots als een pauw, zonder geluid<br>En hoe klein ze ook zijn,<br>Hun daden waren groot, gaan niet onderuit<br>Voor jou, mijn welp, voor Kaa, voor Oe<br>Knoop je slaapzak door wind en regen, en zal<br>Jullie nakken zolang jullie bestaan<br>Bouw een bultje met elkaar<br>En hou de kou bij jullie vandaan<br><br>Alle spullen uit de tas<br>Piramide in de tent<br>Port'monnee en pasjes, we zijn nog steeds op zoek<br>Een bult van meuk kunnen wij ook<br>Ondervond de witte tent<br>Camouflage van luifel met paal<br>Mooie glazen, Eiscafé<br>Valkins ranja, zo doorheen<br>Christiaans pizza bevatte een haar<br><br>De V van Vinchem<br>Twee vingers in de lucht, kom op, kom op<br>De V van Vinchem is de V van Wij<br>Witte Veder staat aan onze zij<br>De V van Valsspelen bij een spel<br>De burchtenregels verand'ren snel<br>De V van altijd Vrolijk zijn<br>Ook al doet je pees of hoofd soms pijn<br>De V van Vinchem, de V van Vinchem<br>De V van spijkermeppen doen<br>De RSA nog niet ontgroen'<br>De V van Vega's accepteren<br>En zeggen dat ze vlees eten moeten leren<br>De V van huilie huilie doen<br>Wraps met chili en kalkoen<br>En dus zingen we vandaag van:<br><br>Refrein<br><br>Enge spooktocht in het bos<br>Giech'lende bosjes spuiten nat<br>Veders demoon eruit gerukt<br>Lag te branden op het vuur<br>Ja, benzine brandt echt zeer goed<br>Arie's haar mooi groen geverfd<br>Een verrader van zijn stam<br>Maar het gaat uiteraard om de lol<br>Ja, het gaat uiteraard om de lol",
             "prefix": "()",
             "voorbeeldzin": "-",
             "categorie": "Liedjes"
         },
         {
             "woord": "waslijn",
-            "betekenis": "Uiterst nuttig onderdeel van het kampterrein, waaraan alle natte was wordt opgehangen. Bestaat vaak alleen uit twee palen met daartussen een touw. Er bevindt zich ook een waslijn in het gebouw, in het stam\/RSA-lokaal. Deze zorgt er af en toe voor dat opkomsten verlopen tussen de drogende handdoeken.",
+            "betekenis": "Uiterst nuttig onderdeel van het kampterrein, waaraan alle natte was wordt opgehangen. Bestaat vaak alleen uit twee palen met daartussen een touw. Er bevindt zich ook een waslijn in het gebouw, in het stam-/RSA-lokaal. Deze zorgt er af en toe voor dat opkomsten verlopen tussen de drogende handdoeken.",
             "prefix": "(de; m; meervoud: waslijnen)",
             "voorbeeldzin": "\"Er is gisteren alvast een waslijn gepionierd.\"",
             "categorie": "Keuken"
@@ -1793,7 +1677,7 @@ const content = {
             "woord": "scoutslokaal",
             "betekenis": "Lokaal waarin de scouts hun opkomsten hebben. Er bevindt zich ook een ruime zolder.",
             "prefix": "(het; o)",
-            "voorbeeldzin": null,
+            "voorbeeldzin": "",
             "categorie": "Plaatsen"
         },
         {
@@ -1820,20 +1704,20 @@ const content = {
         {
             "woord": "sisal",
             "betekenis": "Touw dat wordt gebruikt voor het pionieren, meestal van objecten waarbij vuur een rol spelen zoals de vuurtafel. Gewoon piotouw is te duur om hiervoor te gebruiken in verband met verbrandingsgevaar. Sisaltouw wordt geproduceerd in Brazili\u00eb en komt van de sisalplant.",
-            "prefix": null,
+            "prefix": "(het; o)",
             "voorbeeldzin": "\"De bovenste knopen van de vuurtafel doen we met sisal.\"",
             "categorie": "Materiaal"
         },
         {
             "woord": "sisalbol",
-            "betekenis": "Een bol opgerolde sisal. Kost \u20ac15,50.",
+            "betekenis": "Een bol opgerolde sisal. Kost €15,50.",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Hoeveel kost een sisalbol?\"",
             "categorie": "Materiaal"
         },
         {
             "woord": "kloofbijl",
-            "betekenis": "Bijl die wordt gebruikt om grote blokken hout doormidden te splijten, het zogenaamde \u2018kloven\u2019.",
+            "betekenis": "Bijl die wordt gebruikt om grote blokken hout doormidden te splijten, het zogenaamde 'kloven'.",
             "prefix": "(de; m; meervoud: kloofbijlen)",
             "voorbeeldzin": "\"Men mag de kloofbijl niet over het terrein laten slingeren.\"",
             "categorie": "Materiaal"
@@ -1965,44 +1849,23 @@ const content = {
         },
         {
             "woord": "tijdcapsule",
-            "betekenis": "\"Een capsule begraven op het terrein van scouting Vinchem met attributen van de toenmalige leden. Een herinnering hieraan is opgehangen in het stamlokaal.\"",
+            "betekenis": "Een capsule begraven op het terrein van scouting Vinchem met attributen van de toenmalige leden. Een herinnering hieraan is opgehangen in het stamlokaal.",
             "prefix": "(de; m)",
             "voorbeeldzin": "\"Ik heb echt geen flauw idee waar ze die tijdscapsule begraven hebben.\"",
             "categorie": ""
         },
         {
             "woord": "Grolsch",
-            "betekenis": "E\u00e9n van de twee bieren die wordt gedronken bij scouting Vinchem. Drinkers van dit bier zijn er van overtuigd dat Grolsch beter is dan Hertog-Jan.",
+            "betekenis": "Eén van de twee bieren die wordt gedronken bij scouting Vinchem. Drinkers van dit bier zijn er van overtuigd dat Grolsch beter is dan Hertog-Jan.",
             "prefix": "()",
             "voorbeeldzin": "\"Er staan nog kratten Grolsch onder het gebouw.\"",
             "categorie": ""
         },
         {
             "woord": "Hertog-Jan",
-            "betekenis": "E\u00e9n van de twee bieren die wordt gedronken bij scouting Vinchem. Drinkers van dit bier zijn er van overtuigd dat Hertog-Jan beter is dan Grolsch.",
+            "betekenis": "Eén van de twee bieren die wordt gedronken bij scouting Vinchem. Drinkers van dit bier zijn er van overtuigd dat Hertog-Jan beter is dan Grolsch.",
             "prefix": "()",
             "voorbeeldzin": "\"De kratten Hertog-Jan kratten moeten nog bij de Albert Heijn worden ingeleverd.\"",
-            "categorie": ""
-        },
-        {
-            "woord": "Mamakaa",
-            "betekenis": "Het eigenlijk Els Kleiweg. Moeder van Christiaan en Anne-Jan, waarbij de laatste ook wel bekend is al Kaa. Omdat er meerdere Elzen aanwezig zijn op het gebouw is zij later omgedoopt tot Mamakaa.",
-            "prefix": "(v)",
-            "voorbeeldzin": "\"H\u00e9 daar is Mamakaa!\"",
-            "categorie": "Personen en dergelijke"
-        },
-        {
-            "woord": "Papakaa",
-            "betekenis": "Minder gebruikte bijnaam van Kees Kleiweg. Vader van Christiaan en Anne-Jan, waarbij de laatste ook wel bekend is al Kaa. Kreeg deze bijnaam in navolging van zijn vrouw die door het leven gaat als Mamakaa.",
-            "prefix": "(m)",
-            "voorbeeldzin": "\"Papakaa is de vader van Kaa.\"",
-            "categorie": "Personen en dergelijke"
-        },
-        {
-            "woord": "Mamaoe",
-            "betekenis": "Bijnaam van Elly Kettler, de moeder van Mich\u00e8l Bos, ook wel bekent als Oe. Kreeg deze bijnaam in navolging van Mamakaa.",
-            "prefix": "(v)",
-            "voorbeeldzin": "\"Mamaoe heeft gebeld.\"",
             "categorie": ""
         },
         {
@@ -2014,7 +1877,7 @@ const content = {
         },
         {
             "woord": "uit de kring",
-            "betekenis": "Liedje wat wordt gezongen als iemand om wat voor reden dan ook de kring moet verlaten. De tekst bestaat alleen uit de drie woorden \u2018Uit de kring\u2019 wat men herhaaldelijk zingt op de melodie van \u2018Schop nooit zomaar tegen eend\u2019.<br><br><br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring<br>",
+            "betekenis": "Liedje wat wordt gezongen als iemand om wat voor reden dan ook de kring moet verlaten. De tekst bestaat alleen uit de drie woorden 'Uit de kring' die men herhaaldelijk zingt op de melodie van 'Schop nooit zomaar tegen eend'.<br><br><br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring, uit de kring<br>Uit de kring, uit de kring, uit de kring<br>Uit de kring<br>",
             "prefix": "()",
             "voorbeeldzin": "\"Uit de kring\"",
             "categorie": "Liedjes"
@@ -2028,16 +1891,16 @@ const content = {
         },
         {
             "woord": "tosti",
-            "betekenis": "Vaak voorkomend middag- en ochtendgerecht bij de explorers, bestaande uit kaas en\/of ham en brood, en afhankelijk van de persoon die de tosti maakt; een lading boter. Word meestal gebakken in een pan, maar er bestaan ook apparaten voor.",
+            "betekenis": "Vaak voorkomend middag- en ochtendgerecht bij de explorers, bestaande uit kaas en/of ham en brood, en afhankelijk van de persoon die de tosti maakt; een lading boter. Word meestal gebakken in een pan, maar er bestaan ook apparaten voor.",
             "prefix": "(de; m; meervoud: tosti's)",
             "voorbeeldzin": "\"Zo, van de hoeveelheid boter op deze tosti krijg je spontaan hart- en vaatziekten.\"",
             "categorie": "Voedsel"
         },
         {
             "woord": "tosti's bouwen",
-            "betekenis": "Andere benaming voor het maken van tosti\u2019s.",
+            "betekenis": "Andere benaming voor het maken van tosti's.",
             "prefix": "(werkwoord; bouwde, gebouwd)",
-            "voorbeeldzin": "\"Wie gaat die tosti\u2019s even bouwen?\"",
+            "voorbeeldzin": "\"Wie gaat die tosti's even bouwen?\"",
             "categorie": ""
         },
         {
@@ -2063,7 +1926,7 @@ const content = {
         },
         {
             "woord": "wapperplankje",
-            "betekenis": "Plankje om het vuur te voorzien van extra zuurstof, zodat het overslaat naar andere takjes en groter en warmer wordt. Kan zowel bestaan uit een stuk karton, een pannendeksel als bijvoorbeeld een stuk themamateriaal.",
+            "betekenis": "Plankje om het vuur te voorzien van extra zuurstof, zodat het overslaat naar andere takjes en groter en warmer wordt. Kan zowel bestaan uit een stuk karton, een pannendeksel als bijvoorbeeld een stuk themamateriaal. Waar de wapperplankjes",
             "prefix": "(het; o)",
             "voorbeeldzin": "\"Kun je me het wapperplankje even aangeven?\"",
             "categorie": ""
@@ -2152,14 +2015,14 @@ const content = {
         },
         {
             "woord": "lijntje (verplaatsingsmethode)",
-            "betekenis": "Een manier om vele voorwerpen van \u00e9\u00e9n naar een ander punt te dragen. In plaats van iedereen afzonderlijk te laten lopen, gaat iedereen in een rij staan en neemt men de voorwerpen aan van de voorganger alvorens ze door te geven aan de volgende persoon.",
+            "betekenis": "Een manier om vele voorwerpen van één naar een ander punt te dragen. In plaats van iedereen afzonderlijk te laten lopen, gaat iedereen in een rij staan en neemt men de voorwerpen aan van de voorganger alvorens ze door te geven aan de volgende persoon.",
             "prefix": "(het; o)",
             "voorbeeldzin": "\"Zullen we deze palen met een lijntje verplaatsen?\"",
             "categorie": ""
         },
         {
             "woord": "pasta van Godert",
-            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2015 met het thema 'Kolonisten van Catan'. Het lied werd gezongen op het nummer 'Broodje van Kootje'.<br><br>REFREIN:<br>Ik wil de pasta van Godert<br>dat maakt mij blij.<br>Het was gezellig zonder<br>d' Explorers erbij.<br>Ja, ja de welpen die zwemmen<br>elke dag weer.<br>En maar \u00e9\u00e9n stamlid slaapt lang;<br>Bram, Bram, Bram.<br><br>De RSA ging dit jaar richting Rheine.<br>Maartens band begon snel weg te kwijnen.<br>Hij had steeds weer kast van een klapband.<br>Padampadamklabam.<br>Maar daarom konden we lekker zwemmen.<br>Padampadampaplons.<br>Big Mac in \u00e9\u00e9n keer eten,<br>gefilmd zodat we niet vergeten.<br>Ik riep op straat, na veel gepraat:<br>\"W\u00f6lst du tansen mit mir?\"<br><br>Refrein<br><br>Zat in de Schwalbe en hoorde iemand braken.<br>Scouts zaten rare geluiden te maken.<br>Hun troep was echt niet te eten.<br>Padampadampablech.<br>De pizza van Hassan smaakte veel beter.<br>Padampadampadam.<br>Als je bij de lunch niet komen kan,<br>ja, ja de straf daar schrik je van.<br>\"AAH, MIJN SLAAPZAK ZIT VL BLOEM!\"<br>Want dat is wat ze doen.<br><br>Refrein",
+            "betekenis": "Een zomerkamplied, gezongen op het zomerkamp van 2015 met het thema 'Kolonisten van Catan'. Het lied werd gezongen op het nummer 'Broodje van Kootje'.<br><br>REFREIN:<br>Ik wil de pasta van Godert<br>dat maakt mij blij.<br>Het was gezellig zonder<br>d' Explorers erbij.<br>Ja, ja de welpen die zwemmen<br>elke dag weer.<br>En maar één stamlid slaapt lang;<br>Bram, Bram, Bram.<br><br>De RSA ging dit jaar richting Rheine.<br>Maartens band begon snel weg te kwijnen.<br>Hij had steeds weer kast van een klapband.<br>Padampadamklabam.<br>Maar daarom konden we lekker zwemmen.<br>Padampadampaplons.<br>Big Mac in één keer eten,<br>gefilmd zodat we niet vergeten.<br>Ik riep op straat, na veel gepraat:<br>\"Wölst du tansen mit mir?\"<br><br>Refrein<br><br>Zat in de Schwalbe en hoorde iemand braken.<br>Scouts zaten rare geluiden te maken.<br>Hun troep was echt niet te eten.<br>Padampadampablech.<br>De pizza van Hassan smaakte veel beter.<br>Padampadampadam.<br>Als je bij de lunch niet komen kan,<br>ja, ja de straf daar schrik je van.<br>\"AAH, MIJN SLAAPZAK ZIT VL BLOEM!\"<br>Want dat is wat ze doen.<br><br>Refrein",
             "prefix": "(de; m)",
             "voorbeeldzin": "",
             "categorie": "Liedjes"
