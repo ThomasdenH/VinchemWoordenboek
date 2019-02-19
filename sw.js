@@ -26,7 +26,7 @@ const files = [
   './icons/favicon-32x32.png',
   './icons/favicon-96x96.png',
   './icons/favicon-512x512.png',
-  './icons/favicon-1600x1600(1).png',
+  './icons/favicon-1600x1600.png',
   './icons/ms-icon-70x70.png',
   './icons/ms-icon-144x144.png',
   './icons/ms-icon-150x150.png',
