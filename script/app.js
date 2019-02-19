@@ -40,7 +40,7 @@ const mdcList = new MDCList(list);
 mdcList.listElements.map((listItemEl) => new MDCRipple(listItemEl));
 
 // Show a word if it was specified
-const params = new URLSearchParams(document.location.search.substring(1));
+const params = new URLSearchParams(window.location.search.substring(1));
 const currentWord = params.get('woord');
 if (currentWord !== null)
     showWord(content.words.find((word) => word.woord === decodeURIComponent(currentWord)));
@@ -90,6 +90,7 @@ const shareButton = document.querySelector('.action-share');
 if (navigator.share) {
     shareButton.classList.remove('hidden');
     shareButton.addEventListener('click', () => {
+        const loc = window.location;
         navigator.share({
             title: 'Vinchem Woordenboek',
             url: (currentWord === null) ?
