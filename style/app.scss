@@ -28,7 +28,6 @@ body {
     display: none !important;
 }
 
-.mdc-list-item__text {
-    @include mdc-theme-prop('color', 'on-surface');
-    text-decoration: none;
+.mdc-list-item {
+    cursor: pointer;
 }

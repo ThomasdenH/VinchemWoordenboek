@@ -17,31 +17,21 @@ const wordDesc = wordDetailPage.querySelector('.word-description');
 const wordExample = wordDetailPage.querySelector('.word-example');
 const backButton = document.querySelector('.mdc-top-app-bar__navigation-icon');
 
-const shareButton = document.querySelector('.action-share');
-if (navigator.share) {
-    shareButton.addEventListener('click', () => {
-        navigator.share({
-            title: 'Vinchem Woordenboek',
-            text: 'Ik wil een woord met je delen!',
-            url: window.location.href,
-        });
-    });
-} else {
-    shareButton.remove();
-}
-
 const list = document.querySelector('.mdc-list');
 content.words.sort((a, b) => a.woord.localeCompare(b.woord));
 
 for (const word of content.words) {
-    const span = document.createElement('a');
+    const span = document.createElement('span');
     span.innerHTML = word.woord;
     span.className = 'mdc-list-item__text';
-    span.href = `./?woord=${encodeURIComponent(word.woord)}`;
 
     const li = document.createElement('li');
     li.className = 'mdc-list-item';
     li.appendChild(span);
+    li.addEventListener('click', (e) => {
+        const loc = window.location;
+        window.location = `${loc.protocol}//${loc.host}${loc.pathname}?woord=${encodeURIComponent(word.woord)}`;
+    });
 
     list.appendChild(li);
 }
@@ -89,3 +79,17 @@ window.addEventListener('beforeinstallprompt', (e) => {
         });
     });
 });
+
+
+const shareButton = document.querySelector('.action-share');
+if (navigator.share) {
+    shareButton.classList.remove('hidden');
+    shareButton.addEventListener('click', () => {
+        navigator.share({
+            title: 'Vinchem Woordenboek',
+            url: (currentWord === null) ?
+                `${loc.protocol}//${loc.host}${loc.pathname}`
+                : `${loc.protocol}//${loc.host}${loc.pathname}?woord=${encodeURIComponent(currentWord.woord)}`,
+        });
+    });
+}
