@@ -10,10 +10,6 @@ $mdc-theme-background: #fff;
 
 body {
     margin: 0;
-
-    &.covered {
-        overflow: hidden;
-    }
 }
 
 .words-list {
@@ -21,27 +17,18 @@ body {
 }
 
 .word-detail {
-    position: fixed;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    background-color: $mdc-theme-background;
     padding: 64px 32px;
-
-    &.hidden {
-        display: none;
-    }
 }
 
 .word-example {
     color: $mdc-theme-secondary;
 }
 
-.mdc-top-app-bar__navigation-icon.hidden {
-    display: none;
+.hidden {
+    display: none !important;
 }
 
-.mdc-top-app-bar--fixed {
-    top: 0 !important;
+.mdc-list-item__text {
+    @include mdc-theme-prop('color', 'on-surface');
+    text-decoration: none;
 }
